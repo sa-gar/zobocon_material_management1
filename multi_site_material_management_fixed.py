@@ -103,13 +103,13 @@ if 'multi_site_data' not in st.session_state:
                         "asian_fine_putty": {"stock": 40, "used": 0, "unit": "kg", "min_stock": 20, "category": "materials", "rate": 607.7, "code": "AP-PY-03"},
                         "asian_interior_primer": {"stock": 120, "used": 0, "unit": "liters", "min_stock": 50, "category": "materials", "rate": 1416, "code": "AP-PR-01"}
                     },
-                    "tools": {
-                        "putty_blade_8inch": {"stock": 48, "used": 0, "unit": "pieces", "min_stock": 10, "category": "tools", "rate": 16.225, "code": "HT-PB-08"},
-                        "cutting_plier": {"stock": 1, "used": 0, "unit": "pieces", "min_stock": 2, "category": "tools", "rate": 150.0, "code": "HT-CP-001"}
+                    "tools and accessories": {
+                        "putty_blade_8inch": {"stock": 48, "used": 0, "unit": "pieces", "min_stock": 10, "category": "tools and accessories", "rate": 16.225, "code": "HT-PB-08"},
+                        "cutting_plier": {"stock": 1, "used": 0, "unit": "pieces", "min_stock": 2, "category": "tools and accessories", "rate": 150.0, "code": "HT-CP-001"}
                     },
-                    "machines and accessories": {
-                        "helmet": {"stock": 6, "used": 0, "unit": "pieces", "min_stock": 10, "category": "machines and accessories", "rate": 88.5, "code": "SA-HE-001"},
-                        "safety_jacket_orange": {"stock": 4, "used": 0, "unit": "pieces", "min_stock": 8, "category": "machines and accessories", "rate": 57.75, "code": "SA-SJ-OR"}
+                    "machines": {
+                        "helmet": {"stock": 6, "used": 0, "unit": "pieces", "min_stock": 10, "category": "machines", "rate": 88.5, "code": "SA-HE-001"},
+                        "safety_jacket_orange": {"stock": 4, "used": 0, "unit": "pieces", "min_stock": 8, "category": "machines", "rate": 57.75, "code": "SA-SJ-OR"}
                     }
                 },
                 "Karle Construction Site": {
@@ -121,13 +121,13 @@ if 'multi_site_data' not in st.session_state:
                         "jk_levelmaxx_putty": {"stock": 3600, "used": 0, "unit": "kg", "min_stock": 100, "category": "materials", "rate": 600.03, "code": "JK-PY-01"},
                         "dulux_interior_primer": {"stock": 297, "used": 23, "unit": "liters", "min_stock": 50, "category": "materials", "rate": 1357, "code": "DL-PR-02"}
                     },
-                    "tools": {
-                        "putty_blade_4inch": {"stock": 16, "used": 0, "unit": "pieces", "min_stock": 8, "category": "tools", "rate": 6.2894, "code": "HT-PB-04"},
-                        "scaffolding": {"stock": 16, "used": 0, "unit": "sets", "min_stock": 5, "category": "tools", "rate": 5000, "code": "EQ-SC-001"}
+                    "tools and accessories": {
+                        "putty_blade_4inch": {"stock": 16, "used": 0, "unit": "pieces", "min_stock": 8, "category": "tools and accessories", "rate": 6.2894, "code": "HT-PB-04"},
+                        "scaffolding": {"stock": 16, "used": 0, "unit": "sets", "min_stock": 5, "category": "tools and accessories", "rate": 5000, "code": "EQ-SC-001"}
                     },
-                    "machines and accessories": {
-                        "fall_arrester": {"stock": 6, "used": 0, "unit": "pieces", "min_stock": 4, "category": "machines and accessories", "rate": 1475, "code": "SA-FA-001"},
-                        "safety_goggles": {"stock": 17, "used": 0, "unit": "pieces", "min_stock": 10, "category": "machines and accessories", "rate": 37.76, "code": "SA-GO-001"}
+                    "machines": {
+                        "fall_arrester": {"stock": 6, "used": 0, "unit": "pieces", "min_stock": 4, "category": "machines", "rate": 1475, "code": "SA-FA-001"},
+                        "safety_goggles": {"stock": 17, "used": 0, "unit": "pieces", "min_stock": 10, "category": "machines", "rate": 37.76, "code": "SA-GO-001"}
                     }
                 }
             },
@@ -165,19 +165,19 @@ def show_dashboard():
     col1, col2, col3, col4 = st.columns(4)
 
     total_sites = len(sites)
-    total_items = sum(len(site['materials']) + len(site['tools']) + len(site['machines and accessories']) 
+    total_items = sum(len(site['materials']) + len(site['tools and accessories']) + len(site['machines']) 
                      for site in sites.values())
 
     total_stock_value = sum(
         item['stock'] * item.get('rate', 0)
         for site in sites.values()
-        for category in ['materials', 'tools', 'machines and accessories']
+        for category in ['materials', 'tools and accessories', 'machines']
         for item in site[category].values()
     )
 
     total_low_stock = sum(
         1 for site in sites.values()
-        for category in ['materials', 'tools', 'machines and accessories']
+        for category in ['materials', 'tools and accessories', 'machines']
         for item in site[category].values()
         if item['stock'] <= item['min_stock']
     )
@@ -198,10 +198,10 @@ def show_dashboard():
 
     site_data = []
     for site_name, site_info in sites.items():
-        site_items = len(site_info['materials']) + len(site_info['tools']) + len(site_info['machines and accessories'])
+        site_items = len(site_info['materials']) + len(site_info['tools and accessories']) + len(site_info['machines'])
         site_value = sum(
             item['stock'] * item.get('rate', 0)
-            for category in ['materials', 'tools', 'machines and accessories']
+            for category in ['materials', 'tools and accessories', 'machines']
             for item in site_info[category].values()
         )
 
@@ -265,8 +265,8 @@ def show_site_management():
                     "contact": contact,
                     "project_type": project_type,
                     "materials": {},
-                    "tools": {},
-                    "machines and accessories": {}
+                    "tools and accessories": {},
+                    "machines": {}
                 }
 
                 st.session_state.multi_site_data['system_info']['total_sites'] = len(st.session_state.multi_site_data['sites'])
@@ -324,13 +324,13 @@ def show_inventory(selected_site):
     with col1:
         st.metric("Materials", len(site_data['materials']))
     with col2:
-        st.metric("Tools", len(site_data['tools']))
+        st.metric("tools and accessories", len(site_data['tools and accessories']))
     with col3:
-        st.metric("Machines & Accessories", len(site_data['machines and accessories']))
+        st.metric("Machines & Accessories", len(site_data['machines']))
 
     st.divider()
 
-    for category in ['materials', 'tools', 'machines and accessories']:
+    for category in ['materials', 'tools and accessories', 'machines']:
         if site_data[category]:
             st.subheader(f"📦 {category.title()}")
 
@@ -368,7 +368,7 @@ def show_all_sites_inventory():
     with col1:
         selected_category = st.selectbox(
             "📦 Filter by Category",
-            ["All Categories", "materials", "tools", "machines and accessories"],
+            ["All Categories", "materials", "tools and accessories", "machines"],
             format_func=lambda x: x.title() if x != "All Categories" else x
         )
     
@@ -384,7 +384,7 @@ def show_all_sites_inventory():
     all_items = []
     
     for site_name, site_data in sites.items():
-        for category in ['materials', 'tools', 'machines and accessories']:
+        for category in ['materials', 'tools and accessories', 'machines']:
             if selected_category != "All Categories" and category != selected_category:
                 continue
             
@@ -484,7 +484,7 @@ def show_add_items(selected_site):
 
     with col1:
         st.subheader("📦 Item Details")
-        category = st.selectbox("Category *", ["materials", "tools", "machines and accessories"], format_func=lambda x: x.title())
+        category = st.selectbox("Category *", ["materials", "tools and accessories", "machines"], format_func=lambda x: x.title())
 
         site_data = st.session_state.multi_site_data['sites'][selected_site]
         existing_items = list(site_data[category].keys()) if category in site_data else []
@@ -578,7 +578,7 @@ def show_use_items(selected_site):
 
     with col1:
         st.subheader("📦 Item Selection")
-        category = st.selectbox("Category *", ["materials", "tools", "machines and accessories"], format_func=lambda x: x.title())
+        category = st.selectbox("Category *", ["materials", "tools and accessories", "machines"], format_func=lambda x: x.title())
 
         available_items = {name: data for name, data in site_data[category].items() if data['stock'] > 0}
 
@@ -653,7 +653,7 @@ def show_edit_items(selected_site):
 
     site_data = st.session_state.multi_site_data['sites'][selected_site]
 
-    category = st.selectbox("📦 Select Category", ["materials", "tools", "machines and accessories"], format_func=lambda x: x.title())
+    category = st.selectbox("📦 Select Category", ["materials", "tools and accessories", "machines"], format_func=lambda x: x.title())
 
     items_in_category = list(site_data[category].keys())
 
@@ -843,7 +843,7 @@ def show_transfers():
 
         if from_site:
             from_site_data = st.session_state.multi_site_data['sites'][from_site]
-            category = st.selectbox("Category *", ["materials", "tools", "machines and accessories"], format_func=lambda x: x.title())
+            category = st.selectbox("Category *", ["materials", "tools and accessories", "machines"], format_func=lambda x: x.title())
 
             available_items = {name: data for name, data in from_site_data[category].items() if data['stock'] > 0}
 
@@ -928,8 +928,8 @@ def show_reports(selected_site):
 
         col1, col2, col3 = st.columns(3)
 
-        total_items = len(site_data['materials']) + len(site_data['tools']) + len(site_data['machines and accessories'])
-        total_value = sum(item['stock'] * item.get('rate', 0) for category in ['materials', 'tools', 'machines and accessories'] for item in site_data[category].values())
+        total_items = len(site_data['materials']) + len(site_data['tools and accessories']) + len(site_data['machines'])
+        total_value = sum(item['stock'] * item.get('rate', 0) for category in ['materials', 'tools and accessories', 'machines'] for item in site_data[category].values())
 
         with col1:
             st.metric("Total Items", total_items)

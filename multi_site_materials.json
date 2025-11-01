@@ -556,13 +556,13 @@
           "code": "MT-GN-262"
         }
       },
-      "tools": {
+      "tools and accessories": {
         "tester": {
           "stock": 1,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 0,
           "code": "TL-GN-441"
         },
@@ -571,7 +571,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 6.2894,
           "code": "TL-PY-662"
         },
@@ -580,7 +580,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 16.225,
           "code": "TL-PY-627"
         },
@@ -589,7 +589,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 849.0,
           "code": "TL-PY-638"
         },
@@ -598,7 +598,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 2516.0,
           "code": "TL-PY-485"
         },
@@ -607,7 +607,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 6.3,
           "code": "AT-PY-489"
         },
@@ -616,7 +616,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 16.22,
           "code": "AT-PY-837"
         },
@@ -625,7 +625,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 133.0,
           "code": "TL-GN-240"
         },
@@ -634,7 +634,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 0,
           "code": "TL-GN-987"
         },
@@ -643,7 +643,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 0,
           "code": "TL-GN-853"
         },
@@ -652,7 +652,7 @@
           "used": 0,
           "unit": "meters",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 0,
           "code": "TL-RL-192"
         },
@@ -661,7 +661,7 @@
           "used": 0,
           "unit": "meters",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 76.7,
           "code": "TL-RL-716"
         },
@@ -670,7 +670,7 @@
           "used": 0,
           "unit": "meters",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 88.5,
           "code": "TL-RL-404"
         },
@@ -679,7 +679,7 @@
           "used": 0,
           "unit": "meters",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 100.3,
           "code": "TL-RL-918"
         },
@@ -688,7 +688,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 0,
           "code": "TL-BR-040"
         },
@@ -697,7 +697,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 0,
           "code": "TL-GN-199"
         },
@@ -706,7 +706,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 0,
           "code": "TL-GN-621"
         },
@@ -715,7 +715,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 0,
           "code": "TL-GN-617"
         },
@@ -724,7 +724,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 0,
           "code": "TL-GN-787"
         },
@@ -733,7 +733,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 0,
           "code": "TL-GN-940"
         },
@@ -742,7 +742,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 0,
           "code": "TL-GN-847"
         },
@@ -751,7 +751,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 0,
           "code": "TL-GN-138"
         },
@@ -760,7 +760,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 0,
           "code": "TL-GN-321"
         },
@@ -769,7 +769,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 0,
           "code": "TL-PY-198"
         },
@@ -778,7 +778,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 0,
           "code": "TL-PY-759"
         },
@@ -787,7 +787,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 0,
           "code": "TL-PY-862"
         },
@@ -796,7 +796,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 0,
           "code": "TL-BR-003"
         },
@@ -805,7 +805,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 0,
           "code": "TL-GN-477"
         },
@@ -814,7 +814,7 @@
           "used": 0,
           "unit": "meters",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 0,
           "code": "TL-RL-825"
         },
@@ -823,7 +823,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 0,
           "code": "TL-SP-551"
         },
@@ -832,18 +832,18 @@
           "used": 0,
           "unit": "liters",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 0,
           "code": "TL-EM-321"
         }
       },
-      "machines and accessories": {
+      "machines": {
         "helmet_yellow": {
           "stock": 7,
           "used": 7,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 88.5,
           "code": "SA-HE-342"
         },
@@ -852,7 +852,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 720.0006,
           "code": "SA-SJ-971"
         },
@@ -861,7 +861,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 57.75,
           "code": "SA-SJ-974"
         },
@@ -870,7 +870,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 57.75,
           "code": "SA-SJ-108"
         },
@@ -879,7 +879,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 750.0,
           "code": "SA-GN-019"
         },
@@ -888,7 +888,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 23.961,
           "code": "SA-SP-395"
         },
@@ -897,7 +897,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 6.3,
           "code": "SA-SP-157"
         },
@@ -906,7 +906,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 37.76,
           "code": "SA-SP-604"
         },
@@ -915,7 +915,7 @@
           "used": 0,
           "unit": "pairs",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 400.3504,
           "code": "SA-SP-945"
         },
@@ -924,7 +924,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0,
           "code": "SA-GN-747"
         },
@@ -933,7 +933,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0,
           "code": "SA-GN-191"
         },
@@ -942,7 +942,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0,
           "code": "SA-GN-161"
         },
@@ -951,7 +951,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0,
           "code": "SA-GN-667"
         },
@@ -960,7 +960,7 @@
           "used": 0,
           "unit": "meters",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 5498.8,
           "code": "SA-GN-245"
         },
@@ -969,7 +969,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 5000.0,
           "code": "SA-GN-404"
         },
@@ -978,7 +978,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0,
           "code": "SA-GN-026"
         },
@@ -987,7 +987,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0,
           "code": "SA-GN-504"
         },
@@ -996,7 +996,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0,
           "code": "SA-MC-458"
         },
@@ -1005,7 +1005,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 153.4,
           "code": "SA-SP-111"
         },
@@ -1014,7 +1014,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 32.45,
           "code": "SA-SP-669"
         },
@@ -1023,7 +1023,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 64.9,
           "code": "SA-SP-419"
         },
@@ -1032,7 +1032,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0,
           "code": "SA-SP-048"
         },
@@ -1041,7 +1041,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0,
           "code": "SA-GN-294"
         },
@@ -1050,7 +1050,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0,
           "code": "SA-GN-457"
         },
@@ -1059,7 +1059,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0,
           "code": "SA-GN-737"
         },
@@ -1068,7 +1068,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0,
           "code": "SA-EL-370"
         },
@@ -1077,7 +1077,7 @@
           "used": 0,
           "unit": "meters",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0,
           "code": "SA-SP-360"
         },
@@ -1086,7 +1086,7 @@
           "used": 0,
           "unit": "liters",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0,
           "code": "SA-EM-477"
         },
@@ -1095,7 +1095,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0,
           "code": "AP-SP-323"
         },
@@ -1104,7 +1104,7 @@
           "used": 0,
           "unit": "kg",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0,
           "code": "BO-PY-820"
         }
@@ -1243,13 +1243,13 @@
           "code": "N/A"
         }
       },
-      "tools": {
+      "tools and accessories": {
         "putty_blade_4inch": {
           "stock": 16,
           "used": 0,
           "unit": "pieces",
           "min_stock": 8,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 6.2894,
           "code": "HT-PB-04"
         },
@@ -1258,7 +1258,7 @@
           "used": 0,
           "unit": "sets",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 5000,
           "code": "EQ-SC-001"
         },
@@ -1267,7 +1267,7 @@
           "used": 0,
           "unit": "",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 6.29,
           "code": ""
         },
@@ -1276,7 +1276,7 @@
           "used": 0,
           "unit": "",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 16.23,
           "code": ""
         },
@@ -1285,7 +1285,7 @@
           "used": 0,
           "unit": "",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 0.0,
           "code": ""
         },
@@ -1294,7 +1294,7 @@
           "used": 0,
           "unit": "",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 57.03,
           "code": ""
         },
@@ -1303,7 +1303,7 @@
           "used": 0,
           "unit": "",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 0.0,
           "code": ""
         },
@@ -1312,7 +1312,7 @@
           "used": 0,
           "unit": "",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 32.45,
           "code": ""
         },
@@ -1321,7 +1321,7 @@
           "used": 0,
           "unit": "",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 64.9,
           "code": ""
         },
@@ -1330,7 +1330,7 @@
           "used": 0,
           "unit": "",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 153.4,
           "code": ""
         },
@@ -1339,7 +1339,7 @@
           "used": 0,
           "unit": "",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 17.42,
           "code": ""
         },
@@ -1348,7 +1348,7 @@
           "used": 0,
           "unit": "",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 17.42,
           "code": ""
         },
@@ -1357,7 +1357,7 @@
           "used": 0,
           "unit": "",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 18.998,
           "code": ""
         },
@@ -1366,7 +1366,7 @@
           "used": 0,
           "unit": "",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 18.998,
           "code": ""
         },
@@ -1375,7 +1375,7 @@
           "used": 0,
           "unit": "",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 159.99,
           "code": ""
         },
@@ -1384,7 +1384,7 @@
           "used": 0,
           "unit": "",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 161.66,
           "code": ""
         },
@@ -1393,7 +1393,7 @@
           "used": 0,
           "unit": "",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 76.7,
           "code": ""
         },
@@ -1402,7 +1402,7 @@
           "used": 0,
           "unit": "",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 88.5,
           "code": ""
         },
@@ -1411,18 +1411,18 @@
           "used": 0,
           "unit": "",
           "min_stock": 0,
-          "category": "tools",
+          "category": "tools and accessories",
           "rate": 100.3,
           "code": ""
         }
       },
-      "machines and accessories": {
+      "machines": {
         "fall_arrester": {
           "stock": 6,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 1475,
           "code": "SA-FA-001"
         },
@@ -1431,7 +1431,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 37.76,
           "code": "SA-GO-001"
         },
@@ -1440,7 +1440,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0.0,
           "code": "N/A"
         },
@@ -1449,7 +1449,7 @@
           "used": 0,
           "unit": "",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0,
           "code": ""
         },
@@ -1458,7 +1458,7 @@
           "used": 0,
           "unit": "",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0,
           "code": ""
         },
@@ -1467,7 +1467,7 @@
           "used": 0,
           "unit": "",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0,
           "code": ""
         },
@@ -1476,7 +1476,7 @@
           "used": 0,
           "unit": "",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0,
           "code": ""
         },
@@ -1485,7 +1485,7 @@
           "used": 0,
           "unit": "",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0,
           "code": ""
         },
@@ -1494,7 +1494,7 @@
           "used": 0,
           "unit": "",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0,
           "code": ""
         },
@@ -1503,7 +1503,7 @@
           "used": 0,
           "unit": "",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0,
           "code": ""
         },
@@ -1512,7 +1512,7 @@
           "used": 0,
           "unit": "",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0,
           "code": ""
         },
@@ -1521,7 +1521,7 @@
           "used": 0,
           "unit": "",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0,
           "code": ""
         }
@@ -1561,14 +1561,14 @@
           "code": "N/A"
         }
       },
-      "tools": {},
-      "machines and accessories": {
+      "tools and accessories": {},
+      "machines": {
         "cutting_machines": {
           "stock": 0,
           "used": 0,
           "unit": "pieces",
           "min_stock": 1,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0.0,
           "code": "N/A"
         },
@@ -1577,7 +1577,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0.0,
           "code": "N/A"
         },
@@ -1586,7 +1586,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0.0,
           "code": "N/A"
         },
@@ -1595,7 +1595,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0.0,
           "code": "N/A"
         },
@@ -1604,7 +1604,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0.0,
           "code": "N/A"
         },
@@ -1613,7 +1613,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0.0,
           "code": "N/A"
         },
@@ -1622,7 +1622,7 @@
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
-          "category": "machines and accessories",
+          "category": "machines",
           "rate": 0.0,
           "code": "N/A"
         }
@@ -1634,7 +1634,7 @@
       "date": "2025-10-10 19:24:11.065939",
       "type": "added",
       "site": "DSR WHITE WATERS",
-      "category": "machines and accessories",
+      "category": "machines",
       "item": "cutting_machines",
       "quantity": 0,
       "supplier": "",
@@ -1644,7 +1644,7 @@
       "date": "2025-10-10 19:26:35.167969",
       "type": "added",
       "site": "DSR WHITE WATERS",
-      "category": "machines and accessories",
+      "category": "machines",
       "item": "angle_grinding_machine_4_inch",
       "quantity": 0,
       "supplier": "",
@@ -1654,7 +1654,7 @@
       "date": "2025-10-10 19:29:44.028591",
       "type": "added",
       "site": "DSR WHITE WATERS",
-      "category": "machines and accessories",
+      "category": "machines",
       "item": "angle_grinding_machine_4_inch",
       "quantity": 10,
       "supplier": "",
@@ -1664,7 +1664,7 @@
       "date": "2025-10-10 19:30:31.071534",
       "type": "used",
       "site": "DSR WHITE WATERS",
-      "category": "machines and accessories",
+      "category": "machines",
       "item": "angle_grinding_machine_4_inch",
       "quantity": 10,
       "work_area": "floor",
@@ -1675,7 +1675,7 @@
       "date": "2025-10-10 19:30:58.335948",
       "type": "added",
       "site": "DSR WHITE WATERS",
-      "category": "machines and accessories",
+      "category": "machines",
       "item": "angle_grinding_machine_4_inch",
       "quantity": 1,
       "supplier": "",
@@ -1685,7 +1685,7 @@
       "date": "2025-10-10 19:31:53.398044",
       "type": "added",
       "site": "DSR WHITE WATERS",
-      "category": "machines and accessories",
+      "category": "machines",
       "item": "angle_grinding_machine_7_inch",
       "quantity": 0,
       "supplier": "",
@@ -1695,7 +1695,7 @@
       "date": "2025-10-10 19:32:46.718045",
       "type": "added",
       "site": "DSR WHITE WATERS",
-      "category": "machines and accessories",
+      "category": "machines",
       "item": "jet_wash_machine_gun",
       "quantity": 1,
       "supplier": "",
@@ -1705,7 +1705,7 @@
       "date": "2025-10-10 19:34:04.648545",
       "type": "added",
       "site": "DSR WHITE WATERS",
-      "category": "machines and accessories",
+      "category": "machines",
       "item": "jet_wash_machine_gun",
       "quantity": 1,
       "supplier": "",
@@ -1715,7 +1715,7 @@
       "date": "2025-10-10 19:35:10.393413",
       "type": "added",
       "site": "DSR WHITE WATERS",
-      "category": "machines and accessories",
+      "category": "machines",
       "item": "jet_wash_machine_(bitali)_",
       "quantity": 0,
       "supplier": "",
@@ -1725,7 +1725,7 @@
       "date": "2025-10-10 19:35:54.496929",
       "type": "added",
       "site": "DSR WHITE WATERS",
-      "category": "machines and accessories",
+      "category": "machines",
       "item": "vacuum_cleaner_",
       "quantity": 0,
       "supplier": "",
@@ -1735,7 +1735,7 @@
       "date": "2025-10-10 19:36:05.385365",
       "type": "added",
       "site": "DSR WHITE WATERS",
-      "category": "machines and accessories",
+      "category": "machines",
       "item": "vacuum_cleaner_",
       "quantity": 1,
       "supplier": "",
@@ -1745,7 +1745,7 @@
       "date": "2025-10-10 19:36:22.678412",
       "type": "added",
       "site": "DSR WHITE WATERS",
-      "category": "machines and accessories",
+      "category": "machines",
       "item": "putty/_paint_spry_machine",
       "quantity": 1,
       "supplier": "",
@@ -1755,7 +1755,7 @@
       "date": "2025-10-10 19:37:22.107300",
       "type": "added",
       "site": "DSR WHITE WATERS",
-      "category": "machines and accessories",
+      "category": "machines",
       "item": "jet_wash_machine_(bitali)_",
       "quantity": 1,
       "supplier": "",
@@ -1765,7 +1765,7 @@
       "date": "2025-10-10 19:42:53.594876",
       "type": "added",
       "site": "DSR WHITE WATERS",
-      "category": "machines and accessories",
+      "category": "machines",
       "item": "jet_wash_machine_gun",
       "quantity": 5,
       "supplier": "",
@@ -1776,7 +1776,7 @@
       "type": "transfer",
       "from_site": "DSR WHITE WATERS",
       "to_site": "Karle Construction Site",
-      "category": "machines and accessories",
+      "category": "machines",
       "item": "angle_grinding_machine_4_inch",
       "quantity": 1,
       "authorized_by": "Site Manager",
@@ -1902,7 +1902,7 @@
       "date": "2025-11-01 15:22:34.486588",
       "type": "used",
       "site": "L&T Painting Site",
-      "category": "machines and accessories",
+      "category": "machines",
       "item": "helmet_yellow",
       "quantity": 4,
       "work_area": "uhi",
@@ -1913,7 +1913,7 @@
       "date": "2025-11-01 15:23:25.033947",
       "type": "edited",
       "site": "L&T Painting Site",
-      "category": "machines and accessories",
+      "category": "machines",
       "item": "helmet_yellow",
       "old_stock": 10,
       "new_stock": 10,
@@ -1923,7 +1923,7 @@
       "date": "2025-11-01 15:23:45.997799",
       "type": "edited",
       "site": "L&T Painting Site",
-      "category": "machines and accessories",
+      "category": "machines",
       "item": "helmet_yellow",
       "old_stock": 10,
       "new_stock": 10,
@@ -1933,7 +1933,7 @@
       "date": "2025-11-01 15:23:48.647826",
       "type": "edited",
       "site": "L&T Painting Site",
-      "category": "machines and accessories",
+      "category": "machines",
       "item": "helmet_yellow",
       "old_stock": 10,
       "new_stock": 10,
@@ -1943,7 +1943,7 @@
       "date": "2025-11-01 15:24:46.806090",
       "type": "used",
       "site": "L&T Painting Site",
-      "category": "machines and accessories",
+      "category": "machines",
       "item": "helmet_yellow",
       "quantity": 3,
       "work_area": "hh",
@@ -1954,7 +1954,7 @@
       "date": "2025-11-01 15:25:18.389861",
       "type": "edited",
       "site": "L&T Painting Site",
-      "category": "machines and accessories",
+      "category": "machines",
       "item": "helmet_yellow",
       "old_stock": 7,
       "new_stock": 7,
