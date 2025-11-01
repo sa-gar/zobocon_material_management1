@@ -47,286 +47,655 @@
     "rate": 0.0
   }
       },
-      "tools and accessories": {
-        "tester": {
-          "stock": 1,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 0,
-          "code": "TL-GN-441"
-        },
-        "putty_blade_4_inch": {
-          "stock": 20,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 6.2894,
-          "code": "TL-PY-662"
-        },
-        "putty_blade_8_inch": {
-          "stock": 62,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 16.225,
-          "code": "TL-PY-627"
-        },
-        "18_putty_blades": {
-          "stock": 0,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 849.0,
-          "code": "TL-PY-638"
-        },
-        "23_putty_blade": {
-          "stock": 0,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 2516.0,
-          "code": "TL-PY-485"
-        },
-        "altek_putty_blade_4": {
-          "stock": 4,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 6.3,
-          "code": "AT-PY-489"
-        },
-        "altek_putty_blade_8": {
-          "stock": 4,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 16.22,
-          "code": "AT-PY-837"
-        },
-        "scraper": {
-          "stock": 0,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 133.0,
-          "code": "TL-GN-240"
-        },
-        "cutting_plier": {
-          "stock": 1,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 0,
-          "code": "TL-GN-987"
-        },
-        "tool_box": {
-          "stock": 1,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 0,
-          "code": "TL-GN-853"
-        },
-        "roller_8_inch": {
-          "stock": 0,
-          "used": 0,
-          "unit": "meters",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 0,
-          "code": "TL-RL-192"
-        },
-        "roller_6_inch": {
-          "stock": 0,
-          "used": 0,
-          "unit": "meters",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 76.7,
-          "code": "TL-RL-716"
-        },
-        "09_inch_int_roller": {
-          "stock": 0,
-          "used": 0,
-          "unit": "meters",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 88.5,
-          "code": "TL-RL-404"
-        },
-        "exterior_roller_9_inch": {
-          "stock": 0,
-          "used": 0,
-          "unit": "meters",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 100.3,
-          "code": "TL-RL-918"
-        },
-        "brush_5_inch": {
-          "stock": 0,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 0,
-          "code": "TL-BR-040"
-        },
-        "spry_tip_621": {
-          "stock": 0,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 0,
-          "code": "TL-GN-199"
-        },
-        "spry_tip_531": {
-          "stock": 0,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 0,
-          "code": "TL-GN-621"
-        },
-        "spry_tip_529": {
-          "stock": 0,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 0,
-          "code": "TL-GN-617"
-        },
-        "spry_tip_523": {
-          "stock": 0,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 0,
-          "code": "TL-GN-787"
-        },
-        "screw_driver": {
-          "stock": 0,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 0,
-          "code": "TL-GN-940"
-        },
-        "grinding_disks_5_inch": {
-          "stock": 13,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 0,
-          "code": "TL-GN-847"
-        },
-        "grinding_disks_4_inch": {
-          "stock": 61,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 0,
-          "code": "TL-GN-138"
-        },
-        "tip_533_639": {
-          "stock": 0,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 0,
-          "code": "TL-GN-321"
-        },
-        "8_inch_putty_blade_with_handle": {
-          "stock": 0,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 0,
-          "code": "TL-PY-198"
-        },
-        "12_inch_putty_blade_with_handle": {
-          "stock": 0,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 0,
-          "code": "TL-PY-759"
-        },
-        "18inch_putty_blade_with_handle": {
-          "stock": 0,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 0,
-          "code": "TL-PY-862"
-        },
-        "6_inch_brush": {
-          "stock": 0,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 0,
-          "code": "TL-BR-003"
-        },
-        "nozzle": {
-          "stock": 0,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 0,
-          "code": "TL-GN-477"
-        },
-        "9_inch_interior_roller": {
-          "stock": 0,
-          "used": 0,
-          "unit": "meters",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 0,
-          "code": "TL-RL-825"
-        },
-        "sanding_pad": {
-          "stock": 0,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 0,
-          "code": "TL-SP-551"
-        },
-        "spray_paint_gun": {
-          "stock": 0,
-          "used": 0,
-          "unit": "liters",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 0,
-          "code": "TL-EM-321"
-        }
+      "tools and accessories": {   
+    "sanding_paper_220": {
+      "stock": 100,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "safety_face_mask": {
+      "stock": 80,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "grinding_disks_4_inch": {
+      "stock": 61,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "9_inch_int_roller": {
+      "stock": 54,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "sand_paper_square_grit_320": {
+      "stock": 50,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "round_sand_paper_for_machine_220": {
+      "stock": 35,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "320_grit_round_sand_paper": {
+      "stock": 35,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "6_inch_brush": {
+      "stock": 34,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "sanding_pad": {
+      "stock": 28,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "reflective_safety_jackets_orange": {
+      "stock": 28,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "safety_goggles": {
+      "stock": 27,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "masking_tape_1_inch": {
+      "stock": 26,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "industrial_plug__socket_female": {
+      "stock": 25,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "dhothi": {
+      "stock": 24,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "masking_tape_2_inch": {
+      "stock": 24,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "round_grit_150": {
+      "stock": 22,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "tarpaulin": {
+      "stock": 22,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "helmet": {
+      "stock": 20,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "buckets": {
+      "stock": 20,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "gloves": {
+      "stock": 19,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "9_inch_ext_roller": {
+      "stock": 17,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "scaffolding": {
+      "stock": 16,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "gurmala": {
+      "stock": 15,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "safety_shoes": {
+      "stock": 15,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "industrial_plug__socket_male": {
+      "stock": 15,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "grinding_disks_5_inch": {
+      "stock": 13,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "16_amps_female_socket": {
+      "stock": 13,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "6_inch_face_shield": {
+      "stock": 12,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "12_inch_face_shield": {
+      "stock": 12,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "junction_box": {
+      "stock": 12,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "safety_belts__harness": {
+      "stock": 11,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "steel_gurmala_black": {
+      "stock": 10,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "round_sand_paper_for_machine_150": {
+      "stock": 9,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "led_lights_100w": {
+      "stock": 9,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "sponge": {
+      "stock": 8,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "led_lights_200w": {
+      "stock": 8,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "safety_harness": {
+      "stock": 7,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "locks_purchased": {
+      "stock": 6,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "fall_arrester": {
+      "stock": 6,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "led_light_stand": {
+      "stock": 6,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "3_core_25mm_wire_bundle": {
+      "stock": 5,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "insulation_tape_black": {
+      "stock": 5,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "safety_rope_105mm_udyogi_50mtr": {
+      "stock": 5,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "ear_plugs": {
+      "stock": 5,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "sand_paper_grit_320_square_type": {
+      "stock": 5,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "led_holder_stand": {
+      "stock": 5,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "4_feet_stand": {
+      "stock": 4,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "trolley": {
+      "stock": 4,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "reflective_safety_jacket___green": {
+      "stock": 4,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "6_inch_int_roller": {
+      "stock": 4,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "led_lights_50w": {
+      "stock": 3,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "almera": {
+      "stock": 3,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "air_compressor_hose_pipe": {
+      "stock": 3,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "tape_dispenser": {
+      "stock": 3,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "16_mcb_panel_set": {
+      "stock": 2,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "tip_533___639": {
+      "stock": 2,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "torch_light": {
+      "stock": 2,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "ceramic__slit_nozzles": {
+      "stock": 2,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "brown_tape": {
+      "stock": 2,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "filter": {
+      "stock": 2,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "masking_tape_4_inch": {
+      "stock": 2,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "polisher": {
+      "stock": 2,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "rod": {
+      "stock": 2,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "32_mcb_panel_set": {
+      "stock": 1,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "tester": {
+      "stock": 1,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "water_can": {
+      "stock": 1,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "water_drum_big": {
+      "stock": 1,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "tool_box": {
+      "stock": 1,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "halogen_light_with_one_bulb_extra": {
+      "stock": 1,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "hose_pipe_1_bundle": {
+      "stock": 1,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "old_news_paper_10_kg": {
+      "stock": 1,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "jet_wash": {
+      "stock": 1,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "panel_board": {
+      "stock": 1,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "electric_cable_100_mtr": {
+      "stock": 1,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "drinking_water_drum": {
+      "stock": 1,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "first_aid_kit": {
+      "stock": 1,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "cutting_plier": {
+      "stock": 1,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "screw_driver": {
+      "stock": 1,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "undolation_device_36_watts": {
+      "stock": 1,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "plastic_masking_roll0_2_ft": {
+      "stock": 0.6,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    },
+    "foam_carpet__blue_1_bundle_200_mtr": {
+      "stock": 0.5,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "tools_accessories",
+      "rate": 0.0
+    }
       },
       "machines": {
         "graco_fine_putty_machine": {
