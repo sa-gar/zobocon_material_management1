@@ -329,276 +329,166 @@
         }
       },
       "machines": {
-        "helmet_yellow": {
-          "stock": 7,
-          "used": 7,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "machines",
-          "rate": 88.5,
-          "code": "SA-HE-342"
-        },
-        "safety_harness": {
-          "stock": 7,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "machines",
-          "rate": 720.0006,
-          "code": "SA-SJ-971"
-        },
-        "reflective_safety_jackets_orange": {
-          "stock": 22,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "machines",
-          "rate": 57.75,
-          "code": "SA-SJ-974"
-        },
-        "reflective_safety_jacket_green": {
-          "stock": 4,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "machines",
-          "rate": 57.75,
-          "code": "SA-SJ-108"
-        },
-        "first_aid_kit": {
-          "stock": 1,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "machines",
-          "rate": 750.0,
-          "code": "SA-GN-019"
-        },
-        "gloves": {
-          "stock": 10,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "machines",
-          "rate": 23.961,
-          "code": "SA-SP-395"
-        },
-        "safety_face_mask": {
-          "stock": 80,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "machines",
-          "rate": 6.3,
-          "code": "SA-SP-157"
-        },
-        "safety_goggles": {
-          "stock": 10,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "machines",
-          "rate": 37.76,
-          "code": "SA-SP-604"
-        },
-        "safety_shoes": {
-          "stock": 15,
-          "used": 0,
-          "unit": "pairs",
-          "min_stock": 0,
-          "category": "machines",
-          "rate": 400.3504,
-          "code": "SA-SP-945"
-        },
-        "scaffolding_table": {
-          "stock": 0,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "machines",
-          "rate": 0,
-          "code": "SA-GN-747"
-        },
-        "4_feet_stand": {
-          "stock": 4,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "machines",
-          "rate": 0,
-          "code": "SA-GN-191"
-        },
-        "big_wheel": {
-          "stock": 0,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "machines",
-          "rate": 0,
-          "code": "SA-GN-161"
-        },
-        "small_wheel": {
-          "stock": 0,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "machines",
-          "rate": 0,
-          "code": "SA-GN-667"
-        },
-        "trolley": {
-          "stock": 2,
-          "used": 0,
-          "unit": "meters",
-          "min_stock": 0,
-          "category": "machines",
-          "rate": 5498.8,
-          "code": "SA-GN-245"
-        },
-        "almera": {
-          "stock": 1,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "machines",
-          "rate": 5000.0,
-          "code": "SA-GN-404"
-        },
-        "stool": {
-          "stock": 0,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "machines",
-          "rate": 0,
-          "code": "SA-GN-026"
-        },
-        "jet_wash": {
-          "stock": 1,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "machines",
-          "rate": 0,
-          "code": "SA-GN-504"
-        },
-        "polisher": {
-          "stock": 2,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "machines",
-          "rate": 0,
-          "code": "SA-MC-458"
-        },
-        "masking_tape_4_inch": {
-          "stock": 0,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "machines",
-          "rate": 153.4,
-          "code": "SA-SP-111"
-        },
-        "masking_tape_1_inch": {
-          "stock": 2,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "machines",
-          "rate": 32.45,
-          "code": "SA-SP-669"
-        },
-        "masking_tape_2_inch": {
-          "stock": 24,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "machines",
-          "rate": 64.9,
-          "code": "SA-SP-419"
-        },
-        "masking_tape_3_inch": {
-          "stock": 0,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "machines",
-          "rate": 0,
-          "code": "SA-SP-048"
-        },
-        "junction_box_with_safety_box": {
-          "stock": 1,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "machines",
-          "rate": 0,
-          "code": "SA-GN-294"
-        },
-        "6_inch_face_shield": {
-          "stock": 12,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "machines",
-          "rate": 0,
-          "code": "SA-GN-457"
-        },
-        "12_inch_face_shield": {
-          "stock": 12,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "machines",
-          "rate": 0,
-          "code": "SA-GN-737"
-        },
-        "led_light_stand": {
-          "stock": 0,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "machines",
-          "rate": 0,
-          "code": "SA-EL-370"
-        },
-        "plastic_masking_roll0_2_ft": {
-          "stock": 0,
-          "used": 0,
-          "unit": "meters",
-          "min_stock": 0,
-          "category": "machines",
-          "rate": 0,
-          "code": "SA-SP-360"
-        },
-        "airless_paint_sprayer": {
-          "stock": 0,
-          "used": 0,
-          "unit": "liters",
-          "min_stock": 0,
-          "category": "machines",
-          "rate": 0,
-          "code": "SA-EM-477"
-        },
-        "sanding_machine_7_ap_trucare": {
-          "stock": 0,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "machines",
-          "rate": 0,
-          "code": "AP-SP-323"
-        },
-        "bosch_putty_mixer": {
-          "stock": 0,
-          "used": 0,
-          "unit": "kg",
-          "min_stock": 0,
-          "category": "machines",
-          "rate": 0,
-          "code": "BO-PY-820"
-        }
+        "graco_fine_putty_machine": {
+    "stock": 2,
+    "used": 0,
+    "unit": "pieces",
+    "min_stock": 0,
+    "category": "machines",
+    "rate": 0.0
+  },
+  "sanding_machine": {
+    "stock": 8,
+    "used": 0,
+    "unit": "pieces",
+    "min_stock": 0,
+    "category": "machines",
+    "rate": 0.0
+  },
+  "grinding_machine__4_inch": {
+    "stock": 16,
+    "used": 0,
+    "unit": "pieces",
+    "min_stock": 0,
+    "category": "machines",
+    "rate": 0.0
+  },
+  "grinding_machine__7_inch": {
+    "stock": 4,
+    "used": 0,
+    "unit": "pieces",
+    "min_stock": 0,
+    "category": "machines",
+    "rate": 0.0
+  },
+  "grinding_machine__5_inch": {
+    "stock": 1,
+    "used": 0,
+    "unit": "pieces",
+    "min_stock": 0,
+    "category": "machines",
+    "rate": 0.0
+  },
+  "btali_air_compressor": {
+    "stock": 2,
+    "used": 0,
+    "unit": "pieces",
+    "min_stock": 0,
+    "category": "machines",
+    "rate": 0.0
+  },
+  "compressor___1_old": {
+    "stock": 1,
+    "used": 0,
+    "unit": "pieces",
+    "min_stock": 0,
+    "category": "machines",
+    "rate": 0.0
+  },
+  "fine_putty_airless_hydraulic_spray_pump___meco_hydro_ub_253_machine": {
+    "stock": 2,
+    "used": 0,
+    "unit": "pieces",
+    "min_stock": 0,
+    "category": "machines",
+    "rate": 0.0
+  },
+  "coarse_putty_sprayer_mi_1500_machine": {
+    "stock": 3,
+    "used": 0,
+    "unit": "pieces",
+    "min_stock": 0,
+    "category": "machines",
+    "rate": 0.0
+  },
+  "low_power_airless_paint_sprayer_meco_595_machine": {
+    "stock": 1,
+    "used": 0,
+    "unit": "pieces",
+    "min_stock": 0,
+    "category": "machines",
+    "rate": 0.0
+  },
+  "high_power_airless_paint_sprayer_xtaps_850_machine": {
+    "stock": 1,
+    "used": 0,
+    "unit": "pieces",
+    "min_stock": 0,
+    "category": "machines",
+    "rate": 0.0
+  },
+  "putty_mixer_machine_bosch_new": {
+    "stock": 3,
+    "used": 0,
+    "unit": "pieces",
+    "min_stock": 0,
+    "category": "machines",
+    "rate": 0.0
+  },
+  "putty_mixer_machine_asian": {
+    "stock": 1,
+    "used": 0,
+    "unit": "pieces",
+    "min_stock": 0,
+    "category": "machines",
+    "rate": 0.0
+  },
+  "undulation_device": {
+    "stock": 12,
+    "used": 0,
+    "unit": "pieces",
+    "min_stock": 0,
+    "category": "machines",
+    "rate": 0.0
+  },
+  "tip_531": {
+    "stock": 1,
+    "used": 0,
+    "unit": "pieces",
+    "min_stock": 0,
+    "category": "machines",
+    "rate": 0.0
+  },
+  "paint_spray_gun": {
+    "stock": 1,
+    "used": 0,
+    "unit": "pieces",
+    "min_stock": 0,
+    "category": "machines",
+    "rate": 0.0
+  },
+  "2_set_of_pipes_blue": {
+    "stock": 6,
+    "used": 0,
+    "unit": "pieces",
+    "min_stock": 0,
+    "category": "machines",
+    "rate": 0.0
+  },
+  "4_air_blow_nozzle": {
+    "stock": 3,
+    "used": 0,
+    "unit": "pieces",
+    "min_stock": 0,
+    "category": "machines",
+    "rate": 0.0
+  },
+  "multi_meter": {
+    "stock": 8,
+    "used": 0,
+    "unit": "pieces",
+    "min_stock": 0,
+    "category": "machines",
+    "rate": 0.0
+  },
+  "airless_reversible_spray_tip": {
+    "stock": 1,
+    "used": 0,
+    "unit": "pieces",
+    "min_stock": 0,
+    "category": "machines",
+    "rate": 0.0
+  }
       }
     },
     "Karle Construction Site": {
