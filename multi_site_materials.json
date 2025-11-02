@@ -1294,12 +1294,21 @@
       "materials": {},
       "tools and accessories": {},
       "machines": {}
+    },
+    "warehouse": {
+      "location": "25, 2nd Floor, Karna Sree Point, Opposite Kalamandir Outer Ring Road, Service Rd, Marathahalli, Bengaluru, Karnataka 560037",
+      "site_manager": "sagar",
+      "contact": "7624982293",
+      "project_type": "painting work",
+      "materials": {},
+      "tools and accessories": {},
+      "machines": {}
     }
   },
   "transactions": [],
   "system_info": {
     "version": "Multi-Site v4.1",
-    "last_updated": "2025-11-03 00:53:07.245246",
-    "total_sites": 4
+    "last_updated": "2025-11-03 00:59:53.676171",
+    "total_sites": 5
   }
 }
