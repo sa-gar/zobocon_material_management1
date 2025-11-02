@@ -866,132 +866,150 @@
       "contact": "+91-YYYYYYYYY",
       "project_type": "PAINTING",
       "materials": {
-        "JK_LevelMaxx_Plus_Putty": {
-          "stock": 0,
-          "used": 0,
-          "unit": "kg",
-          "min_stock": 0,
-          "category": "materials",
-          "rate": 600.03,
-          "code": ""
-        },
-        "Dulux_Ultrafine_Texture": {
-          "stock": 5000,
-          "used": 0,
-          "unit": "",
-          "min_stock": 0,
-          "category": "materials",
-          "rate": 1333.4,
-          "code": ""
-        },
-        "Dulux_Interior_Primer": {
-          "stock": 0,
-          "used": 0,
-          "unit": "",
-          "min_stock": 0,
-          "category": "materials",
-          "rate": 1357.0,
-          "code": ""
-        },
-        "Dulux_Poly_Putty": {
-          "stock": 0,
-          "used": 0,
-          "unit": "",
-          "min_stock": 0,
-          "category": "materials",
-          "rate": 678.5,
-          "code": ""
-        },
-        "Dulux_SC_Exterior_Primer": {
-          "stock": 0,
-          "used": 0,
-          "unit": "",
-          "min_stock": 0,
-          "category": "materials",
-          "rate": 1834.9,
-          "code": ""
-        },
-        "Dulux_Weathershield_PU_Elastomeric": {
-          "stock": 0,
-          "used": 0,
-          "unit": "",
-          "min_stock": 0,
-          "category": "materials",
-          "rate": 6844.0,
-          "code": ""
-        },
-        "Dulux_Interior_Acrylic_Emulsion": {
-          "stock": 0,
-          "used": 0,
-          "unit": "",
-          "min_stock": 0,
-          "category": "materials",
-          "rate": 3540.0,
-          "code": ""
-        },
-        "Dulux_Promise_Smartchoice_Interior_Acrylic_Emulsion": {
-          "stock": 0,
-          "used": 0,
-          "unit": "",
-          "min_stock": 0,
-          "category": "materials",
-          "rate": 3540.0,
-          "code": ""
-        },
-        "Gyproc_Bondit": {
-          "stock": 0,
-          "used": 0,
-          "unit": "",
-          "min_stock": 0,
-          "category": "materials",
-          "rate": 4012.0,
-          "code": ""
-        },
-        "Gyproc_XPERT_PLUS": {
-          "stock": 0,
-          "used": 0,
-          "unit": "",
-          "min_stock": 0,
-          "category": "materials",
-          "rate": 337.14,
-          "code": ""
-        },
-        "Birla_Fine_Wall_Putty": {
-          "stock": 0,
-          "used": 0,
-          "unit": "",
-          "min_stock": 0,
-          "category": "materials",
-          "rate": 453.58,
-          "code": ""
-        },
-        "Happy_Wall_Acrylic_Putty": {
-          "stock": 0,
-          "used": 0,
-          "unit": "",
-          "min_stock": 0,
-          "category": "materials",
-          "rate": 842.52,
-          "code": ""
-        },
-        "locks_purchased": {
-          "stock": 3,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "materials",
-          "rate": 80.0,
-          "code": "MT-GN-253"
-        },
-        "heyity": {
-          "stock": 0,
-          "used": 0,
-          "unit": "5",
-          "min_stock": 5,
-          "category": "materials",
-          "rate": 50.0,
-          "code": "N/A"
-        }
+       "trucare_suprema_interior_primer___wt": {
+      "stock": 0,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "materials",
+      "rate": 0.0,
+      "code": ""
+    },
+    "trucare_exterior_wall_primer_suprema": {
+      "stock": 0,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "materials",
+      "rate": 0.0,
+      "code": ""
+    },
+    "trucare_acrylic_wall_putty": {
+      "stock": 11,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "materials",
+      "rate": 0.0,
+      "code": ""
+    },
+    "ap_royale_matt_luxury_emulsion": {
+      "stock": 0,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "materials",
+      "rate": 0.0,
+      "code": ""
+    },
+    "royale_wall_basecoat": {
+      "stock": 0,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "materials",
+      "rate": 0.0,
+      "code": ""
+    },
+    "ap_filling_putty_(coarse)": {
+      "stock": 0,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "materials",
+      "rate": 0.0,
+      "code": ""
+    },
+    "asian_trucare_wall_putty_pac_40kg": {
+      "stock": 21,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "materials",
+      "rate": 0.0,
+      "code": ""
+    },
+    "apex_suprema_(asian_exterior_emulsion_paint)": {
+      "stock": 4,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "materials",
+      "rate": 0.0,
+      "code": ""
+    },
+    "nippon_maxx_interior_primer": {
+      "stock": 12,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "materials",
+      "rate": 0.0,
+      "code": ""
+    },
+    "nippon_silky_wall_putty_professional": {
+      "stock": 28,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "materials",
+      "rate": 0.0,
+      "code": ""
+    },
+    "nipon_paint_white_5l": {
+      "stock": 0,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "materials",
+      "rate": 0.0,
+      "code": ""
+    },
+    "nippon_paints_b4_2l": {
+      "stock": 8,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "materials",
+      "rate": 0.0,
+      "code": ""
+    },
+    "surya_cem_white_cement": {
+      "stock": 0,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "materials",
+      "rate": 0.0,
+      "code": ""
+    },
+    "birla_exterior_primer_e10": {
+      "stock": 3,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "materials",
+      "rate": 0.0,
+      "code": ""
+    },
+    "birla_exterior_primer_e30": {
+      "stock": 0,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "materials",
+      "rate": 0.0,
+      "code": ""
+    },
+    "zinc_primer_yellow": {
+      "stock": 0,
+      "used": 0,
+      "unit": "pieces",
+      "min_stock": 0,
+      "category": "materials",
+      "rate": 0.0,
+      "code": ""
+    }
       },
       "tools and accessories": {
         "putty_blade_4inch": {
