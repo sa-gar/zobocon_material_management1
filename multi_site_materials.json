@@ -1,10 +1,10 @@
 {
   "sites": {
     "L&T Painting Site": {
-      "location": "L&T Construction Site Location",
-      "site_manager": "L&T Site Manager",
-      "contact": "+91-XXXXXXXXXX",
-      "project_type": "L&T Construction Project",
+      "location": "itpl back gate,whitefield",
+      "site_manager": "lalith ",
+      "contact": "+91 88677 67953 ",
+      "project_type": "L&T painting Project",
       "materials": {
         "happy_wall_acrylic_putty": {
           "stock": 10,
@@ -193,7 +193,7 @@
           "rate": 0.0
         },
         "buckets": {
-          "stock": 20,
+          "stock": 15,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -210,14 +210,6 @@
         },
         "9_inch_ext_roller": {
           "stock": 17,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "tools_accessories",
-          "rate": 0.0
-        },
-        "scaffolding": {
-          "stock": 16,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -313,7 +305,7 @@
           "rate": 0.0
         },
         "led_lights_100w": {
-          "stock": 9,
+          "stock": 6,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -409,7 +401,7 @@
           "rate": 0.0
         },
         "led_holder_stand": {
-          "stock": 5,
+          "stock": 3,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -425,7 +417,7 @@
           "rate": 0.0
         },
         "trolley": {
-          "stock": 4,
+          "stock": 3,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -457,7 +449,7 @@
           "rate": 0.0
         },
         "almera": {
-          "stock": 3,
+          "stock": 2,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -633,7 +625,7 @@
           "rate": 0.0
         },
         "electric_cable_100_mtr": {
-          "stock": 1,
+          "stock": 0,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -695,11 +687,20 @@
           "min_stock": 0,
           "category": "tools_accessories",
           "rate": 0.0
+        },
+        "scaffolding_table": {
+          "stock": 13,
+          "used": 0,
+          "unit": "",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0,
+          "code": "N/A"
         }
       },
       "machines": {
         "graco_fine_putty_machine": {
-          "stock": 2,
+          "stock": 1,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -707,7 +708,7 @@
           "rate": 0.0
         },
         "sanding_machine": {
-          "stock": 8,
+          "stock": 5,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -715,7 +716,7 @@
           "rate": 0.0
         },
         "grinding_machine__4_inch": {
-          "stock": 16,
+          "stock": 15,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -739,7 +740,7 @@
           "rate": 0.0
         },
         "btali_air_compressor": {
-          "stock": 2,
+          "stock": 1,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -1282,18 +1283,1025 @@
       "site_manager": "elango",
       "contact": "8951383110",
       "project_type": "painting work",
-      "materials": {},
-      "tools and accessories": {},
-      "machines": {}
+      "materials": {
+        "asian_interior_primer_suprema_pac_50kg": {
+          "stock": 5,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0
+        },
+        "ap_trucare_wall_putty_suprema_pac_40kg": {
+          "stock": 60,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0
+        },
+        "ap_filling_putty_pac_40kg": {
+          "stock": 4,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0
+        },
+        "ap_tractor_suprema_emulsion_pac_20l": {
+          "stock": 2,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0
+        }
+      },
+      "tools and accessories": {
+        "led_holder_stand": {
+          "stock": 2,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools_accessories",
+          "rate": 0.0
+        },
+        "almera": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools_accessories",
+          "rate": 0.0
+        },
+        "trolley": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools_accessories",
+          "rate": 0.0
+        },
+        "buckets": {
+          "stock": 5,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools_accessories",
+          "rate": 0.0
+        },
+        "electric_cable_100_mtr": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools_accessories",
+          "rate": 0.0
+        },
+        "led_lights_100w": {
+          "stock": 3,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools_accessories",
+          "rate": 0.0
+        },
+        "putty_blade": {
+          "stock": 24,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "putty_blade_8_inch": {
+          "stock": 24,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "putty_blade_with_handle_8_inch": {
+          "stock": 3,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "putty_blade_with_handle_12_inch": {
+          "stock": 3,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "masking_tape_1_inch": {
+          "stock": 20,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "masking_tape_2_inch": {
+          "stock": 20,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "gurmala": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "tarpaulin": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "sand_paper_grit_220__square": {
+          "stock": 50,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "sand_paper_grit_320__square": {
+          "stock": 50,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "sand_paper_dura_220__square(round)": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "sand_paper_dura_320__square_(round)": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "mipox_400_(round)": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "mipox_600_(_square)": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "mipox_600_(_round_)": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "sanding_pad": {
+          "stock": 2,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "y_junction_box": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "electric_cable__3_core": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "5_male_socket_and_1_female_socket": {
+          "stock": 3,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "led__lights_100w": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "shoes": {
+          "stock": 5,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "face_mask": {
+          "stock": 10,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "dhoti": {
+          "stock": 25,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "safety_googles": {
+          "stock": 5,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "reflective_safety_jackets": {
+          "stock": 5,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "matkol": {
+          "stock": 3,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "almerha": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "trolly": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "cutting_pleir": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "adjustable_spainer": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "spainner_set": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "insulation_tape": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "teflon_tape": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "6_inch_int_roller": {
+          "stock": 5,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "9_inch_int_roller": {
+          "stock": 5,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "brush_5_inch": {
+          "stock": 5,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "led_light_stand": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "helmets": {
+          "stock": 5,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "scaffolding_table": {
+          "stock": 5,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0,
+          "code": "N/A"
+        },
+        "screwdriver_'": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "pipe_wrench": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "tester": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "hammer": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "screwdriver_(set)": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "stool_4,6_ft": {
+          "stock": 2,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        }
+      },
+      "machines": {
+        "grinding_machine__4_inch": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "machines",
+          "rate": 0.0
+        },
+        "sanding_machine": {
+          "stock": 3,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "machines",
+          "rate": 0.0
+        },
+        "graco_fine_putty_machine": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "machines",
+          "rate": 0.0
+        },
+        "btali_air_compressor": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "machines",
+          "rate": 0.0
+        }
+      }
     },
     "dnr highline": {
       "location": " Old Mysuru Road, Okalipuram, Rajajinagar, Bengaluru, Karnataka 560021",
       "site_manager": "Hemant,gouddapa",
       "contact": "7411784758",
       "project_type": "painting work",
-      "materials": {},
-      "tools and accessories": {},
-      "machines": {}
+      "materials": {
+        "dulux_poly_putty": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0
+        },
+        "dulux_sc_exterior_primer": {
+          "stock": 290,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0
+        },
+        "gyproc_bondit": {
+          "stock": 60,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0
+        },
+        "gyproc_xpert_plus": {
+          "stock": 250,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0
+        },
+        "happy_wall_acrylic_putty_berger_pack": {
+          "stock": 440,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0
+        },
+        "dulux_promise_smartchoice_interior_primer": {
+          "stock": 130,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0
+        },
+        "sandpaper_square_grit_320_9\"x11\"_siliconcarbide_ap/3m/bosch": {
+          "stock": 100,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0
+        },
+        "dulux_int_premium_emulsion": {
+          "stock": 480,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0
+        },
+        "ap_filling_putty_(coarse)": {
+          "stock": 2080,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0
+        },
+        "asian_fine_putty": {
+          "stock": 40,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0
+        },
+        "asian_interior_primer": {
+          "stock": 120,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0
+        },
+        "jk_wall_maxx_(fine_putty)": {
+          "stock": 2280,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0
+        },
+        "birla_fine_putty": {
+          "stock": 1590,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0
+        },
+        "ae_primer_(jotun_exterior_primer)": {
+          "stock": 395,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0
+        },
+        "dulux_interior_acrylic_emulsion_morning_glory": {
+          "stock": 380,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0
+        },
+        "ap_tractor_suprima_(base_white)": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0
+        },
+        "ap_tractor_suprima_(0765_morning_glory)": {
+          "stock": 360,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0
+        },
+        "jotashield_colourxtreme_matt": {
+          "stock": 20,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0
+        },
+        "birla_coarse_putty": {
+          "stock": 160,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "materials",
+          "rate": 0.0
+        }
+      },
+      "tools and accessories": {
+        "empty_drum_200lt": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "junction_box": {
+          "stock": 2,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "water_can": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "almera": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "safety_shoes": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "dhothi": {
+          "stock": 13,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "safety_harness": {
+          "stock": 6,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "reflective_safety_jackets_orange": {
+          "stock": 8,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "8_hole_7_inch_round_sanding_paper_grit_320": {
+          "stock": 140,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "8_hole_7_inch_round_sanding_paper_grit_220_=_20_sheets": {
+          "stock": 80,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "reflective_safety_jacket___green": {
+          "stock": 2,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "first_aid_kit": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "putty_blade_4_inch": {
+          "stock": 30,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "putty_blade_8_inch": {
+          "stock": 2,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "safety_face_mask": {
+          "stock": 7,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "sanding_paper_220": {
+          "stock": 100,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "sand_paper_square_grit_320": {
+          "stock": 100,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "sand_paper_square_grit_800": {
+          "stock": 100,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "sand_paper_square_grit_1000": {
+          "stock": 100,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "light_led_200_w": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "led_holder": {
+          "stock": 5,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "light_led_100_w": {
+          "stock": 9,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "gurmala": {
+          "stock": 6,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "locks_purchased": {
+          "stock": 2,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "masking_tape_1_inch": {
+          "stock": 30,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "masking_tape_2_inch": {
+          "stock": 14,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "masking_tape_4_inch": {
+          "stock": 3,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "23_putty_blade": {
+          "stock": 2,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "insulation_tape_black": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "tool_box": {
+          "stock": 0,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "tape_dispenser": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "old_news_paper_10_kg": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "altek_putty_blade_4": {
+          "stock": 4,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "altek_putty_blade_8": {
+          "stock": 4,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "halogen_light_with_one_bulb_extra": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "torch_light": {
+          "stock": 2,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "jet_wash": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "polisher": {
+          "stock": 2,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "junction_box_with_safety_box": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        }
+      },
+      "machines": {
+        "putty_mixer_machine_bosch_new": {
+          "stock": 4,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "machines",
+          "rate": 0.0
+        },
+        "putty_mixer_machine_asian": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "machines",
+          "rate": 0.0
+        },
+        "paint_spray_machine_graco": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "machines",
+          "rate": 0.0
+        },
+        "undulation_device": {
+          "stock": 2,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "machines",
+          "rate": 0.0
+        },
+        "airless_paint_sprayer_xtaps850": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "machines",
+          "rate": 0.0
+        },
+        "laser_level_device": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "machines",
+          "rate": 0.0
+        },
+        "sanding_machine": {
+          "stock": 8,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "machines",
+          "rate": 0.0
+        },
+        "graco_mark_vii,_dc_motor_machine": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "machines",
+          "rate": 0.0
+        }
+      }
     },
     "warehouse": {
       "location": "25, 2nd Floor, Karna Sree Point, Opposite Kalamandir Outer Ring Road, Service Rd, Marathahalli, Bengaluru, Karnataka 560037",
@@ -1305,7 +2313,216 @@
       "machines": {}
     }
   },
-  "transactions": [],
+  "transactions": [
+    {
+      "date": "2025-11-04 16:15:30.251017",
+      "type": "transfer",
+      "from_site": "L&T Painting Site",
+      "to_site": "park_heights",
+      "category": "machines",
+      "item": "grinding_machine__4_inch",
+      "quantity": 1,
+      "authorized_by": "prasanna",
+      "driver_name": "delhivery ",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-04 16:15:42.693671",
+      "type": "transfer",
+      "from_site": "L&T Painting Site",
+      "to_site": "park_heights",
+      "category": "machines",
+      "item": "sanding_machine",
+      "quantity": 3,
+      "authorized_by": "prasanna",
+      "driver_name": "delhivery ",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-04 16:16:13.690398",
+      "type": "transfer",
+      "from_site": "L&T Painting Site",
+      "to_site": "park_heights",
+      "category": "machines",
+      "item": "graco_fine_putty_machine",
+      "quantity": 1,
+      "authorized_by": "prasanna",
+      "driver_name": "delhivery ",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-04 16:18:52.639446",
+      "type": "transfer",
+      "from_site": "L&T Painting Site",
+      "to_site": "park_heights",
+      "category": "tools and accessories",
+      "item": "led_holder_stand",
+      "quantity": 2,
+      "authorized_by": "prasanna",
+      "driver_name": "delhivery ",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-04 16:19:16.935683",
+      "type": "transfer",
+      "from_site": "L&T Painting Site",
+      "to_site": "park_heights",
+      "category": "tools and accessories",
+      "item": "almera",
+      "quantity": 1,
+      "authorized_by": "prasanna",
+      "driver_name": "delhivery ",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-04 16:19:37.419027",
+      "type": "transfer",
+      "from_site": "L&T Painting Site",
+      "to_site": "park_heights",
+      "category": "tools and accessories",
+      "item": "trolley",
+      "quantity": 1,
+      "authorized_by": "prasanna",
+      "driver_name": "delhivery ",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-04 16:20:57.806404",
+      "type": "transfer",
+      "from_site": "L&T Painting Site",
+      "to_site": "park_heights",
+      "category": "tools and accessories",
+      "item": "buckets",
+      "quantity": 5,
+      "authorized_by": "prasanna",
+      "driver_name": "delhivery ",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-04 16:21:16.440125",
+      "type": "transfer",
+      "from_site": "L&T Painting Site",
+      "to_site": "park_heights",
+      "category": "machines",
+      "item": "btali_air_compressor",
+      "quantity": 1,
+      "authorized_by": "prasanna",
+      "driver_name": "delhivery ",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-04 16:22:23.481940",
+      "type": "transfer",
+      "from_site": "L&T Painting Site",
+      "to_site": "park_heights",
+      "category": "tools and accessories",
+      "item": "electric_cable_100_mtr",
+      "quantity": 1,
+      "authorized_by": "prasanna",
+      "driver_name": "delhivery ",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-04 16:22:58.411971",
+      "type": "transfer",
+      "from_site": "L&T Painting Site",
+      "to_site": "park_heights",
+      "category": "tools and accessories",
+      "item": "led_lights_100w",
+      "quantity": 3,
+      "authorized_by": "prasanna",
+      "driver_name": "delhivery ",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-04 17:41:25.108036",
+      "type": "transfer",
+      "from_site": "L&T Painting Site",
+      "to_site": "park_heights",
+      "category": "tools and accessories",
+      "item": "scaffolding",
+      "quantity": 3,
+      "authorized_by": "prasanna sir",
+      "driver_name": "delhivery",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-04 19:05:29.123050",
+      "type": "deleted",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "scaffolding",
+      "deleted_stock": 13
+    },
+    {
+      "date": "2025-11-04 19:06:03.060062",
+      "type": "added",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "scaffolding_table",
+      "quantity": 0,
+      "supplier": "",
+      "received_by": "Site Manager"
+    },
+    {
+      "date": "2025-11-04 19:06:31.405344",
+      "type": "added",
+      "site": "park_heights",
+      "category": "tools and accessories",
+      "item": "scaffolding_table",
+      "quantity": 5,
+      "supplier": "",
+      "received_by": "Site Manager"
+    },
+    {
+      "date": "2025-11-04 19:06:53.363469",
+      "type": "deleted",
+      "site": "park_heights",
+      "category": "tools and accessories",
+      "item": "scaffolding",
+      "deleted_stock": 3
+    },
+    {
+      "date": "2025-11-04 19:07:57.502952",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "scaffolding_table",
+      "old_stock": 13,
+      "new_stock": 13,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-04 19:08:47.464052",
+      "type": "edited",
+      "site": "park_heights",
+      "category": "tools and accessories",
+      "item": "scaffolding_table",
+      "old_stock": 5,
+      "new_stock": 5,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-04 19:08:51.579627",
+      "type": "edited",
+      "site": "park_heights",
+      "category": "tools and accessories",
+      "item": "scaffolding_table",
+      "old_stock": 5,
+      "new_stock": 5,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-04 19:08:55.012896",
+      "type": "edited",
+      "site": "park_heights",
+      "category": "tools and accessories",
+      "item": "scaffolding_table",
+      "old_stock": 5,
+      "new_stock": 5,
+      "notes": ""
+    }
+  ],
   "system_info": {
     "version": "Multi-Site v4.1",
     "last_updated": "2025-11-03 00:59:53.676171",
