@@ -691,7 +691,7 @@ def show_edit_items(selected_site):
                 )
                 new_unit = st.text_input(
                     "Unit of Measure",
-                    value=float(item_data.getitem_data.get('unit', 'pieces')),
+                    value=item_data.get('unit', 'pieces'),
                     help="e.g., pieces, kg, liters"
                 )
 
