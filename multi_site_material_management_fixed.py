@@ -179,7 +179,7 @@ def show_dashboard():
         1 for site in sites.values()
         for category in ['materials', 'tools and accessories', 'machines']
         for item in site[category].values()
-        if item['stock'] <= item['min_stock']
+       if item.get('stock', 0) <= item.get('min_stock', 0)
     )
 
     with col1:
@@ -691,7 +691,7 @@ def show_edit_items(selected_site):
                 )
                 new_unit = st.text_input(
                     "Unit of Measure",
-                    value=item_data.get('unit', 'pieces'),
+                    value=float(item_data.getitem_data.get('unit', 'pieces')),
                     help="e.g., pieces, kg, liters"
                 )
 
@@ -949,8 +949,8 @@ def show_reports(selected_site):
                 'Date': t['date'][:19],
                 'Type': t['type'].title(),
                 'Item': t['item'].replace('_', ' ').title(),
-                'Quantity': t['quantity']
-            } for t in recent])
+                'Quantity': t.get('Quantity', t.get('quantity', 'N/A'))
+} for t in recent])
             st.dataframe(df, use_container_width=True)
         else:
             st.info("No transactions found for this site.")
