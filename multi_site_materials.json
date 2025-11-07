@@ -7,44 +7,49 @@
       "project_type": "L&T painting Project",
       "materials": {
         "happy_wall_acrylic_putty": {
-          "stock": 10,
+          "stock": 300,
           "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
+          "unit": "kg",
+          "min_stock": 200,
           "category": "materials",
-          "rate": 0.0
+          "rate": 35.0,
+          "code": "N/A"
         },
         "platina_bison_distemper": {
-          "stock": 19,
+          "stock": 475,
           "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
+          "unit": "kg",
+          "min_stock": 200,
           "category": "materials",
-          "rate": 0.0
+          "rate": 32.0,
+          "code": "N/A"
         },
         "platina_bison_plus": {
-          "stock": 180,
-          "used": 127,
-          "unit": "pieces",
-          "min_stock": 0,
+          "stock": 6480,
+          "used": 0,
+          "unit": "kgs",
+          "min_stock": 1000,
           "category": "materials",
-          "rate": 0.0
+          "rate": 14.0,
+          "code": "N/A"
         },
         "bp_white_primer_lite_bp_white_primer": {
-          "stock": 18,
+          "stock": 450,
           "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
+          "unit": "kgs",
+          "min_stock": 200,
           "category": "materials",
-          "rate": 0.0
+          "rate": 32.0,
+          "code": "N/A"
         },
         "bison_levelling_putty": {
-          "stock": 14,
+          "stock": 700,
           "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
+          "unit": "kgs",
+          "min_stock": 200,
           "category": "materials",
-          "rate": 0.0
+          "rate": 15.0,
+          "code": "N/A"
         }
       },
       "tools and accessories": {
@@ -868,102 +873,102 @@
       "project_type": "PAINTING",
       "materials": {
         "trucare_suprema_interior_primer___wt": {
-          "stock": 0,
+          "stock": 1810,
           "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
+          "unit": "kgs",
+          "min_stock": 250,
           "category": "materials",
-          "rate": 0.0,
+          "rate": 89.0,
           "code": ""
         },
         "trucare_exterior_wall_primer_suprema": {
-          "stock": 0,
+          "stock": 425,
           "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
+          "unit": "kg",
+          "min_stock": 250,
           "category": "materials",
-          "rate": 0.0,
+          "rate": 104.0,
           "code": ""
         },
         "trucare_acrylic_wall_putty": {
-          "stock": 11,
+          "stock": 220,
           "used": 0,
-          "unit": "pieces",
+          "unit": "kg",
           "min_stock": 0,
           "category": "materials",
-          "rate": 0.0,
+          "rate": 14.0,
           "code": ""
         },
         "ap_royale_matt_luxury_emulsion": {
-          "stock": 0,
+          "stock": 700,
           "used": 0,
-          "unit": "pieces",
+          "unit": "kg",
           "min_stock": 0,
           "category": "materials",
-          "rate": 0.0,
+          "rate": 445.0,
           "code": ""
         },
         "royale_wall_basecoat": {
-          "stock": 0,
+          "stock": 70,
           "used": 0,
-          "unit": "pieces",
+          "unit": "kg",
           "min_stock": 0,
           "category": "materials",
-          "rate": 0.0,
+          "rate": 153.0,
           "code": ""
         },
         "ap_filling_putty_(coarse)": {
-          "stock": 0,
+          "stock": 340,
           "used": 0,
-          "unit": "pieces",
+          "unit": "kg",
           "min_stock": 0,
           "category": "materials",
-          "rate": 0.0,
+          "rate": 12.5,
           "code": ""
         },
         "asian_trucare_wall_putty_pac_40kg": {
-          "stock": 21,
+          "stock": 840,
           "used": 0,
-          "unit": "pieces",
+          "unit": "kg",
           "min_stock": 0,
           "category": "materials",
-          "rate": 0.0,
+          "rate": 44.0,
           "code": ""
         },
         "apex_suprema_(asian_exterior_emulsion_paint)": {
-          "stock": 4,
+          "stock": 80,
           "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
+          "unit": "kg",
+          "min_stock": 20,
           "category": "materials",
-          "rate": 0.0,
+          "rate": 164.0,
           "code": ""
         },
         "nippon_maxx_interior_primer": {
-          "stock": 12,
+          "stock": 240,
           "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
+          "unit": "kg",
+          "min_stock": 100,
           "category": "materials",
-          "rate": 0.0,
+          "rate": 58.0,
           "code": ""
         },
         "nippon_silky_wall_putty_professional": {
-          "stock": 28,
+          "stock": 1120,
           "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
+          "unit": "kg",
+          "min_stock": 200,
           "category": "materials",
-          "rate": 0.0,
+          "rate": 14.0,
           "code": ""
         },
         "nipon_paint_white_5l": {
-          "stock": 0,
+          "stock": 140,
           "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
+          "unit": "kg",
+          "min_stock": 50,
           "category": "materials",
-          "rate": 0.0,
+          "rate": 167.0,
           "code": ""
         },
         "nippon_paints_b4_2l": {
@@ -976,49 +981,40 @@
           "code": ""
         },
         "surya_cem_white_cement": {
-          "stock": 0,
+          "stock": 70,
           "used": 0,
-          "unit": "pieces",
+          "unit": "kg",
           "min_stock": 0,
           "category": "materials",
-          "rate": 0.0,
+          "rate": 20.0,
           "code": ""
         },
         "birla_exterior_primer_e10": {
-          "stock": 3,
+          "stock": 60,
           "used": 0,
-          "unit": "pieces",
+          "unit": "kg",
           "min_stock": 0,
           "category": "materials",
           "rate": 0.0,
           "code": ""
         },
         "birla_exterior_primer_e30": {
-          "stock": 0,
+          "stock": 130,
           "used": 0,
-          "unit": "pieces",
+          "unit": "kg",
           "min_stock": 0,
           "category": "materials",
           "rate": 0.0,
           "code": ""
         },
         "zinc_primer_yellow": {
-          "stock": 0,
+          "stock": 20,
           "used": 0,
-          "unit": "pieces",
+          "unit": "kg",
           "min_stock": 0,
           "category": "materials",
-          "rate": 0.0,
+          "rate": 164.0,
           "code": ""
-        },
-        "tip_625": {
-          "stock": 2,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "materials",
-          "rate": 1850.0,
-          "code": "N/A"
         }
       },
       "tools and accessories": {
@@ -1201,6 +1197,15 @@
           "category": "tools and accessories",
           "rate": 0.0,
           "code": ""
+        },
+        "tip_625": {
+          "stock": 2,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 1,
+          "category": "tools and accessories",
+          "rate": 1850.0,
+          "code": "N/A"
         }
       },
       "machines": {
@@ -3332,6 +3337,43 @@
         }
       },
       "machines": {}
+    },
+    "ADARSH TROPICA": {
+      "location": "Adarsh Tropica, off Sarjapur Road, opposite Primus Public School, Choodasandra, Bengaluru, Karnataka – 560035",
+      "site_manager": "GOUDDAPA",
+      "contact": "8861816395",
+      "project_type": "painting work",
+      "materials": {
+        "bison_bs_300_white": {
+          "stock": 100,
+          "used": 0,
+          "unit": "kg",
+          "min_stock": 20,
+          "category": "materials",
+          "rate": 69.0,
+          "code": "N/A"
+        },
+        "bisson_bs_300_mg_(new_code)": {
+          "stock": 240,
+          "used": 0,
+          "unit": "kg",
+          "min_stock": 50,
+          "category": "materials",
+          "rate": 70.0,
+          "code": "N/A"
+        },
+        "bisson_bs_300_mg_(old_code)": {
+          "stock": 720,
+          "used": 0,
+          "unit": "kg",
+          "min_stock": 50,
+          "category": "materials",
+          "rate": 70.0,
+          "code": "N/A"
+        }
+      },
+      "tools and accessories": {},
+      "machines": {}
     }
   },
   "transactions": [
@@ -3593,11 +3635,399 @@
       "old_stock": 6,
       "new_stock": 6,
       "notes": ""
+    },
+    {
+      "date": "2025-11-06 18:12:27.899463",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "materials",
+      "item": "happy_wall_acrylic_putty",
+      "old_stock": 300,
+      "new_stock": 300,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 10:01:13.424671",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "materials",
+      "item": "platina_bison_distemper",
+      "old_stock": 475,
+      "new_stock": 475,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 10:03:56.825530",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "materials",
+      "item": "platina_bison_plus",
+      "old_stock": 6480,
+      "new_stock": 6480,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 10:05:30.277342",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "materials",
+      "item": "bp_white_primer_lite_bp_white_primer",
+      "old_stock": 450,
+      "new_stock": 450,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 10:06:17.751625",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "materials",
+      "item": "bison_levelling_putty",
+      "old_stock": 700,
+      "new_stock": 700,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 10:07:37.348765",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "materials",
+      "item": "happy_wall_acrylic_putty",
+      "old_stock": 300,
+      "new_stock": 300,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 10:07:46.677939",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "materials",
+      "item": "platina_bison_distemper",
+      "old_stock": 475,
+      "new_stock": 475,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 10:08:10.531648",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "materials",
+      "item": "platina_bison_distemper",
+      "old_stock": 475,
+      "new_stock": 475,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 10:08:19.374172",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "materials",
+      "item": "happy_wall_acrylic_putty",
+      "old_stock": 300,
+      "new_stock": 300,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 10:08:37.334518",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "materials",
+      "item": "platina_bison_plus",
+      "old_stock": 6480,
+      "new_stock": 6480,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 10:08:47.974496",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "materials",
+      "item": "bp_white_primer_lite_bp_white_primer",
+      "old_stock": 450,
+      "new_stock": 450,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 10:08:55.670515",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "materials",
+      "item": "bison_levelling_putty",
+      "old_stock": 700,
+      "new_stock": 700,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 10:11:34.060522",
+      "type": "deleted",
+      "site": "ADARSH PREMIA SITE",
+      "category": "materials",
+      "item": "tip_625",
+      "deleted_stock": 2
+    },
+    {
+      "date": "2025-11-07 10:16:11.566831",
+      "type": "added",
+      "site": "ADARSH PREMIA SITE",
+      "category": "tools and accessories",
+      "item": "tip_625",
+      "quantity": 1,
+      "supplier": "",
+      "received_by": "nagesh"
+    },
+    {
+      "date": "2025-11-07 10:19:10.123150",
+      "type": "edited",
+      "site": "ADARSH PREMIA SITE",
+      "category": "tools and accessories",
+      "item": "tip_625",
+      "old_stock": 2,
+      "new_stock": 2,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 10:25:57.783029",
+      "type": "added",
+      "site": "ADARSH TROPICA",
+      "category": "materials",
+      "item": "bison_bs_300_white",
+      "quantity": 100,
+      "supplier": "",
+      "received_by": "gouddapa"
+    },
+    {
+      "date": "2025-11-07 10:30:15.372771",
+      "type": "added",
+      "site": "ADARSH TROPICA",
+      "category": "materials",
+      "item": "bisson_bs_300_mg_(new_code)",
+      "quantity": 240,
+      "supplier": "",
+      "received_by": "gouddapa"
+    },
+    {
+      "date": "2025-11-07 10:33:27.988813",
+      "type": "edited",
+      "site": "ADARSH TROPICA",
+      "category": "materials",
+      "item": "bison_bs_300_white",
+      "old_stock": 100,
+      "new_stock": 100,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 10:35:50.859285",
+      "type": "added",
+      "site": "ADARSH TROPICA",
+      "category": "materials",
+      "item": "bisson_bs_300_mg_(old_code)",
+      "quantity": 720,
+      "supplier": "",
+      "received_by": "goudappa"
+    },
+    {
+      "date": "2025-11-07 10:39:16.920999",
+      "type": "edited",
+      "site": "ADARSH TROPICA",
+      "category": "materials",
+      "item": "bisson_bs_300_mg_(new_code)",
+      "old_stock": 240,
+      "new_stock": 240,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 10:41:56.091996",
+      "type": "edited",
+      "site": "ADARSH PREMIA SITE",
+      "category": "materials",
+      "item": "trucare_suprema_interior_primer___wt",
+      "old_stock": 1810,
+      "new_stock": 1810,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 10:50:30.617513",
+      "type": "edited",
+      "site": "ADARSH PREMIA SITE",
+      "category": "materials",
+      "item": "trucare_exterior_wall_primer_suprema",
+      "old_stock": 425,
+      "new_stock": 425,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 10:50:58.453490",
+      "type": "edited",
+      "site": "ADARSH PREMIA SITE",
+      "category": "materials",
+      "item": "trucare_exterior_wall_primer_suprema",
+      "old_stock": 425,
+      "new_stock": 425,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 10:58:22.113354",
+      "type": "edited",
+      "site": "ADARSH PREMIA SITE",
+      "category": "materials",
+      "item": "trucare_acrylic_wall_putty",
+      "old_stock": 220,
+      "new_stock": 220,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 10:59:33.241963",
+      "type": "edited",
+      "site": "ADARSH PREMIA SITE",
+      "category": "materials",
+      "item": "ap_royale_matt_luxury_emulsion",
+      "old_stock": 40,
+      "new_stock": 40,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 11:00:40.735101",
+      "type": "edited",
+      "site": "ADARSH PREMIA SITE",
+      "category": "materials",
+      "item": "royale_wall_basecoat",
+      "old_stock": 70,
+      "new_stock": 70,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 11:01:26.606609",
+      "type": "edited",
+      "site": "ADARSH PREMIA SITE",
+      "category": "materials",
+      "item": "ap_filling_putty_(coarse)",
+      "old_stock": 340,
+      "new_stock": 340,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 11:02:41.939778",
+      "type": "edited",
+      "site": "ADARSH PREMIA SITE",
+      "category": "materials",
+      "item": "asian_trucare_wall_putty_pac_40kg",
+      "old_stock": 840,
+      "new_stock": 840,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 11:02:44.171105",
+      "type": "edited",
+      "site": "ADARSH PREMIA SITE",
+      "category": "materials",
+      "item": "asian_trucare_wall_putty_pac_40kg",
+      "old_stock": 840,
+      "new_stock": 840,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 11:05:30.542185",
+      "type": "edited",
+      "site": "ADARSH PREMIA SITE",
+      "category": "materials",
+      "item": "apex_suprema_(asian_exterior_emulsion_paint)",
+      "old_stock": 80,
+      "new_stock": 80,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 11:07:52.087272",
+      "type": "edited",
+      "site": "ADARSH PREMIA SITE",
+      "category": "materials",
+      "item": "nippon_maxx_interior_primer",
+      "old_stock": 240,
+      "new_stock": 240,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 12:05:20.053655",
+      "type": "edited",
+      "site": "ADARSH PREMIA SITE",
+      "category": "materials",
+      "item": "ap_royale_matt_luxury_emulsion",
+      "old_stock": 700,
+      "new_stock": 700,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 12:10:16.727663",
+      "type": "edited",
+      "site": "ADARSH PREMIA SITE",
+      "category": "materials",
+      "item": "nippon_silky_wall_putty_professional",
+      "old_stock": 1120,
+      "new_stock": 1120,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 12:10:20.042840",
+      "type": "edited",
+      "site": "ADARSH PREMIA SITE",
+      "category": "materials",
+      "item": "nippon_silky_wall_putty_professional",
+      "old_stock": 1120,
+      "new_stock": 1120,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 12:11:53.991084",
+      "type": "edited",
+      "site": "ADARSH PREMIA SITE",
+      "category": "materials",
+      "item": "nipon_paint_white_5l",
+      "old_stock": 140,
+      "new_stock": 140,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 12:13:40.223583",
+      "type": "edited",
+      "site": "ADARSH PREMIA SITE",
+      "category": "materials",
+      "item": "surya_cem_white_cement",
+      "old_stock": 70,
+      "new_stock": 70,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 12:42:46.770235",
+      "type": "edited",
+      "site": "ADARSH PREMIA SITE",
+      "category": "materials",
+      "item": "birla_exterior_primer_e10",
+      "old_stock": 60,
+      "new_stock": 60,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 12:43:14.543883",
+      "type": "edited",
+      "site": "ADARSH PREMIA SITE",
+      "category": "materials",
+      "item": "birla_exterior_primer_e30",
+      "old_stock": 130,
+      "new_stock": 130,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 12:45:56.156824",
+      "type": "edited",
+      "site": "ADARSH PREMIA SITE",
+      "category": "materials",
+      "item": "zinc_primer_yellow",
+      "old_stock": 20,
+      "new_stock": 20,
+      "notes": ""
     }
   ],
   "system_info": {
     "version": "Multi-Site v4.1",
-    "last_updated": "2025-11-03 00:59:53.676171",
-    "total_sites": 5
+    "last_updated": "2025-11-07 10:23:41.633226",
+    "total_sites": 6
   }
 }
