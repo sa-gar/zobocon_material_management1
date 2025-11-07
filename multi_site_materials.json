@@ -1853,18 +1853,20 @@
         "dulux_poly_putty": {
           "stock": 0,
           "used": 0,
-          "unit": "pieces",
+          "unit": "kgs",
           "min_stock": 0,
           "category": "materials",
-          "rate": 0.0
+          "rate": 14.0,
+          "code": "N/A"
         },
         "dulux_sc_exterior_primer": {
           "stock": 290,
           "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
+          "unit": "kgs",
+          "min_stock": 100,
           "category": "materials",
-          "rate": 0.0
+          "rate": 78.0,
+          "code": "N/A"
         },
         "gyproc_bondit": {
           "stock": 60,
@@ -1872,119 +1874,125 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "materials",
-          "rate": 0.0
+          "rate": 170.0,
+          "code": "N/A"
         },
         "gyproc_xpert_plus": {
           "stock": 250,
           "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
+          "unit": "kg",
+          "min_stock": 100,
           "category": "materials",
-          "rate": 0.0
+          "rate": 12.0,
+          "code": "N/A"
         },
         "happy_wall_acrylic_putty_berger_pack": {
           "stock": 440,
           "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
+          "unit": "kg",
+          "min_stock": 100,
           "category": "materials",
-          "rate": 0.0
+          "rate": 35.0,
+          "code": "N/A"
         },
         "dulux_promise_smartchoice_interior_primer": {
           "stock": 130,
           "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
+          "unit": "kg",
+          "min_stock": 100,
           "category": "materials",
-          "rate": 0.0
-        },
-        "sandpaper_square_grit_320_9\"x11\"_siliconcarbide_ap/3m/bosch": {
-          "stock": 100,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "materials",
-          "rate": 0.0
+          "rate": 60.0,
+          "code": "N/A"
         },
         "dulux_int_premium_emulsion": {
           "stock": 480,
           "used": 0,
-          "unit": "pieces",
+          "unit": "kg",
           "min_stock": 0,
           "category": "materials",
-          "rate": 0.0
+          "rate": 75.0,
+          "code": "N/A"
         },
         "ap_filling_putty_(coarse)": {
           "stock": 2080,
           "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
+          "unit": "kg",
+          "min_stock": 200,
           "category": "materials",
-          "rate": 0.0
+          "rate": 12.0,
+          "code": "N/A"
         },
         "asian_fine_putty": {
           "stock": 40,
           "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
+          "unit": "kg",
+          "min_stock": 20,
           "category": "materials",
-          "rate": 0.0
+          "rate": 13.0,
+          "code": "N/A"
         },
         "asian_interior_primer": {
           "stock": 120,
           "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
+          "unit": "kg",
+          "min_stock": 50,
           "category": "materials",
-          "rate": 0.0
+          "rate": 80.0,
+          "code": "N/A"
         },
         "jk_wall_maxx_(fine_putty)": {
           "stock": 2280,
           "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
+          "unit": "kg",
+          "min_stock": 200,
           "category": "materials",
-          "rate": 0.0
+          "rate": 13.0,
+          "code": "N/A"
         },
         "birla_fine_putty": {
           "stock": 1590,
           "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
+          "unit": "kg",
+          "min_stock": 100,
           "category": "materials",
-          "rate": 0.0
+          "rate": 13.0,
+          "code": "N/A"
         },
         "ae_primer_(jotun_exterior_primer)": {
           "stock": 395,
           "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
+          "unit": "kg",
+          "min_stock": 100,
           "category": "materials",
-          "rate": 0.0
+          "rate": 92.0,
+          "code": "N/A"
         },
         "dulux_interior_acrylic_emulsion_morning_glory": {
           "stock": 380,
           "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
+          "unit": "kg",
+          "min_stock": 100,
           "category": "materials",
-          "rate": 0.0
+          "rate": 150.0,
+          "code": "N/A"
         },
         "ap_tractor_suprima_(base_white)": {
           "stock": 0,
           "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
+          "unit": "kg",
+          "min_stock": 50,
           "category": "materials",
-          "rate": 0.0
+          "rate": 82.0,
+          "code": "N/A"
         },
         "ap_tractor_suprima_(0765_morning_glory)": {
           "stock": 360,
           "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
+          "unit": "kg",
+          "min_stock": 100,
           "category": "materials",
-          "rate": 0.0
+          "rate": 86.0,
+          "code": "N/A"
         },
         "jotashield_colourxtreme_matt": {
           "stock": 20,
@@ -1997,10 +2005,11 @@
         "birla_coarse_putty": {
           "stock": 160,
           "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
+          "unit": "kg",
+          "min_stock": 100,
           "category": "materials",
-          "rate": 0.0
+          "rate": 11.0,
+          "code": "N/A"
         },
         "tip_535": {
           "stock": 2,
@@ -4349,6 +4358,214 @@
       "quantity": 40,
       "supplier": "",
       "received_by": "om sir"
+    },
+    {
+      "date": "2025-11-07 19:25:16.907068",
+      "type": "edited",
+      "site": "dnr highline",
+      "category": "materials",
+      "item": "dulux_poly_putty",
+      "old_stock": 0,
+      "new_stock": 0,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 19:30:13.078098",
+      "type": "edited",
+      "site": "dnr highline",
+      "category": "materials",
+      "item": "dulux_sc_exterior_primer",
+      "old_stock": 290,
+      "new_stock": 290,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 19:30:22.921294",
+      "type": "edited",
+      "site": "dnr highline",
+      "category": "materials",
+      "item": "dulux_sc_exterior_primer",
+      "old_stock": 290,
+      "new_stock": 290,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 19:31:30.916461",
+      "type": "edited",
+      "site": "dnr highline",
+      "category": "materials",
+      "item": "gyproc_bondit",
+      "old_stock": 60,
+      "new_stock": 60,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 19:32:04.553142",
+      "type": "edited",
+      "site": "dnr highline",
+      "category": "materials",
+      "item": "gyproc_xpert_plus",
+      "old_stock": 250,
+      "new_stock": 250,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 19:32:58.034884",
+      "type": "edited",
+      "site": "dnr highline",
+      "category": "materials",
+      "item": "happy_wall_acrylic_putty_berger_pack",
+      "old_stock": 440,
+      "new_stock": 440,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 19:34:37.802227",
+      "type": "edited",
+      "site": "dnr highline",
+      "category": "materials",
+      "item": "dulux_promise_smartchoice_interior_primer",
+      "old_stock": 130,
+      "new_stock": 130,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 19:37:48.053796",
+      "type": "edited",
+      "site": "dnr highline",
+      "category": "materials",
+      "item": "dulux_promise_smartchoice_interior_primer",
+      "old_stock": 130,
+      "new_stock": 130,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 19:37:55.480356",
+      "type": "deleted",
+      "site": "dnr highline",
+      "category": "materials",
+      "item": "sandpaper_square_grit_320_9\"x11\"_siliconcarbide_ap/3m/bosch",
+      "deleted_stock": 100
+    },
+    {
+      "date": "2025-11-07 19:44:15.898082",
+      "type": "edited",
+      "site": "dnr highline",
+      "category": "materials",
+      "item": "dulux_int_premium_emulsion",
+      "old_stock": 480,
+      "new_stock": 480,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 19:44:59.970805",
+      "type": "edited",
+      "site": "dnr highline",
+      "category": "materials",
+      "item": "ap_filling_putty_(coarse)",
+      "old_stock": 2080,
+      "new_stock": 2080,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 19:46:11.955836",
+      "type": "edited",
+      "site": "dnr highline",
+      "category": "materials",
+      "item": "asian_fine_putty",
+      "old_stock": 40,
+      "new_stock": 40,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 19:48:24.765167",
+      "type": "edited",
+      "site": "dnr highline",
+      "category": "materials",
+      "item": "asian_interior_primer",
+      "old_stock": 120,
+      "new_stock": 120,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 19:49:51.904294",
+      "type": "edited",
+      "site": "dnr highline",
+      "category": "materials",
+      "item": "jk_wall_maxx_(fine_putty)",
+      "old_stock": 2280,
+      "new_stock": 2280,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 19:51:47.776068",
+      "type": "edited",
+      "site": "dnr highline",
+      "category": "materials",
+      "item": "birla_fine_putty",
+      "old_stock": 1590,
+      "new_stock": 1590,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 19:52:33.034028",
+      "type": "edited",
+      "site": "dnr highline",
+      "category": "materials",
+      "item": "ae_primer_(jotun_exterior_primer)",
+      "old_stock": 395,
+      "new_stock": 395,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 19:53:54.585502",
+      "type": "edited",
+      "site": "dnr highline",
+      "category": "materials",
+      "item": "dulux_interior_acrylic_emulsion_morning_glory",
+      "old_stock": 380,
+      "new_stock": 380,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 19:58:03.686440",
+      "type": "edited",
+      "site": "dnr highline",
+      "category": "materials",
+      "item": "ap_tractor_suprima_(base_white)",
+      "old_stock": 0,
+      "new_stock": 0,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 19:58:41.415186",
+      "type": "edited",
+      "site": "dnr highline",
+      "category": "materials",
+      "item": "ap_tractor_suprima_(0765_morning_glory)",
+      "old_stock": 360,
+      "new_stock": 360,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 19:58:45.135476",
+      "type": "edited",
+      "site": "dnr highline",
+      "category": "materials",
+      "item": "ap_tractor_suprima_(0765_morning_glory)",
+      "old_stock": 360,
+      "new_stock": 360,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 20:00:01.767349",
+      "type": "edited",
+      "site": "dnr highline",
+      "category": "materials",
+      "item": "birla_coarse_putty",
+      "old_stock": 160,
+      "new_stock": 160,
+      "notes": ""
     }
   ],
   "system_info": {
