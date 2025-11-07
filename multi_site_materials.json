@@ -50,6 +50,24 @@
           "category": "materials",
           "rate": 15.0,
           "code": "N/A"
+        },
+        "ruf_n_tuf": {
+          "stock": 3030,
+          "used": 0,
+          "unit": "kg",
+          "min_stock": 5,
+          "category": "materials",
+          "rate": 25.0,
+          "code": "N/A"
+        },
+        "dulux_interior_primer": {
+          "stock": 100,
+          "used": 0,
+          "unit": "kg",
+          "min_stock": 5,
+          "category": "materials",
+          "rate": 58.0,
+          "code": "N/A"
         }
       },
       "tools and accessories": {
@@ -70,8 +88,8 @@
           "rate": 0.0
         },
         "grinding_disks_4_inch": {
-          "stock": 61,
-          "used": 0,
+          "stock": 18,
+          "used": 43,
           "unit": "pieces",
           "min_stock": 0,
           "category": "tools_accessories",
@@ -1299,36 +1317,76 @@
       "project_type": "painting work",
       "materials": {
         "asian_interior_primer_suprema_pac_50kg": {
-          "stock": 5,
+          "stock": 250,
           "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
+          "unit": "kg",
+          "min_stock": 100,
           "category": "materials",
-          "rate": 0.0
+          "rate": 79.0,
+          "code": "N/A"
         },
         "ap_trucare_wall_putty_suprema_pac_40kg": {
-          "stock": 60,
+          "stock": 2400,
           "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
+          "unit": "kg",
+          "min_stock": 500,
           "category": "materials",
-          "rate": 0.0
+          "rate": 13.0,
+          "code": "N/A"
         },
         "ap_filling_putty_pac_40kg": {
-          "stock": 4,
+          "stock": 160,
           "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
+          "unit": "kg",
+          "min_stock": 50,
           "category": "materials",
-          "rate": 0.0
+          "rate": 13.0,
+          "code": "N/A"
         },
         "ap_tractor_suprema_emulsion_pac_20l": {
-          "stock": 2,
+          "stock": 40,
           "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
+          "unit": "kg",
+          "min_stock": 20,
           "category": "materials",
-          "rate": 0.0
+          "rate": 77.0,
+          "code": "N/A"
+        },
+        "dulux_interior_primer": {
+          "stock": 220,
+          "used": 0,
+          "unit": "kg",
+          "min_stock": 100,
+          "category": "materials",
+          "rate": 58.0,
+          "code": "N/A"
+        },
+        "dulux_poly_putty": {
+          "stock": 600,
+          "used": 0,
+          "unit": "kg",
+          "min_stock": 100,
+          "category": "materials",
+          "rate": 14.0,
+          "code": "N/A"
+        },
+        "diae_premium_emulsion_(white_)": {
+          "stock": 100,
+          "used": 0,
+          "unit": "kg",
+          "min_stock": 20,
+          "category": "materials",
+          "rate": 150.0,
+          "code": "N/A"
+        },
+        "diae_premium_emulsion_(morning_glory)": {
+          "stock": 100,
+          "used": 0,
+          "unit": "kg",
+          "min_stock": 20,
+          "category": "materials",
+          "rate": 150.0,
+          "code": "N/A"
         }
       },
       "tools and accessories": {
@@ -2266,6 +2324,15 @@
           "min_stock": 0,
           "category": "tools and accessories",
           "rate": 0.0
+        },
+        "scaffolding_table": {
+          "stock": 9,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 5,
+          "category": "tools and accessories",
+          "rate": 0.0,
+          "code": "N/A"
         }
       },
       "machines": {
@@ -3151,14 +3218,6 @@
           "category": "tools and accessories",
           "rate": 0.0
         },
-        "scaffolding_table": {
-          "stock": 7,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "tools and accessories",
-          "rate": 0.0
-        },
         "shoes___labor": {
           "stock": 0,
           "used": 0,
@@ -3372,7 +3431,35 @@
           "code": "N/A"
         }
       },
-      "tools and accessories": {},
+      "tools and accessories": {
+        "scaffolding_table": {
+          "stock": 4,
+          "used": 0,
+          "unit": "piece",
+          "min_stock": 2,
+          "category": "tools and accessories",
+          "rate": 0.0,
+          "code": "N/A"
+        },
+        "tubelight": {
+          "stock": 6,
+          "used": 0,
+          "unit": "piece",
+          "min_stock": 2,
+          "category": "tools and accessories",
+          "rate": 0.0,
+          "code": "N/A"
+        },
+        "matkol": {
+          "stock": 3,
+          "used": 0,
+          "unit": "piece",
+          "min_stock": 2,
+          "category": "tools and accessories",
+          "rate": 0.0,
+          "code": "N/A"
+        }
+      },
       "machines": {}
     }
   },
@@ -4022,6 +4109,235 @@
       "item": "zinc_primer_yellow",
       "old_stock": 20,
       "new_stock": 20,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 14:56:09.554874",
+      "type": "added",
+      "site": "L&T Painting Site",
+      "category": "materials",
+      "item": "ruf_n_tuf",
+      "quantity": 3030,
+      "supplier": "",
+      "received_by": "dwarkanath"
+    },
+    {
+      "date": "2025-11-07 15:11:26.518031",
+      "type": "used",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "grinding_disks_4_inch",
+      "quantity": 43,
+      "work_area": "ceiling ",
+      "supervisor": "dwarkanath",
+      "purpose": "Other"
+    },
+    {
+      "date": "2025-11-07 15:20:50.801736",
+      "type": "added",
+      "site": "L&T Painting Site",
+      "category": "materials",
+      "item": "dulux_interior_primer",
+      "quantity": 100,
+      "supplier": "",
+      "received_by": "Site Manager"
+    },
+    {
+      "date": "2025-11-07 15:30:53.834558",
+      "type": "added",
+      "site": "ADARSH TROPICA",
+      "category": "tools and accessories",
+      "item": "scaffolding_table",
+      "quantity": 4,
+      "supplier": "",
+      "received_by": "gouddapa"
+    },
+    {
+      "date": "2025-11-07 15:43:08.201320",
+      "type": "added",
+      "site": "ADARSH TROPICA",
+      "category": "tools and accessories",
+      "item": "tubelight",
+      "quantity": 6,
+      "supplier": "",
+      "received_by": "gouddapa"
+    },
+    {
+      "date": "2025-11-07 15:44:08.911993",
+      "type": "added",
+      "site": "ADARSH TROPICA",
+      "category": "tools and accessories",
+      "item": "matkol",
+      "quantity": 3,
+      "supplier": "",
+      "received_by": "gouddapa"
+    },
+    {
+      "date": "2025-11-07 15:55:28.273264",
+      "type": "added",
+      "site": "dnr highline",
+      "category": "tools and accessories",
+      "item": "scaffolding_table",
+      "quantity": 9,
+      "supplier": "",
+      "received_by": "Site Manager"
+    },
+    {
+      "date": "2025-11-07 15:55:53.272392",
+      "type": "deleted",
+      "site": "warehouse",
+      "category": "tools and accessories",
+      "item": "scaffolding_table",
+      "deleted_stock": 7
+    },
+    {
+      "date": "2025-11-07 16:17:03.496167",
+      "type": "edited",
+      "site": "park_heights",
+      "category": "materials",
+      "item": "ap_tractor_suprema_emulsion_pac_20l",
+      "old_stock": 40,
+      "new_stock": 40,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 16:19:20.591009",
+      "type": "edited",
+      "site": "park_heights",
+      "category": "materials",
+      "item": "asian_interior_primer_suprema_pac_50kg",
+      "old_stock": 250,
+      "new_stock": 250,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 16:20:27.123362",
+      "type": "edited",
+      "site": "park_heights",
+      "category": "materials",
+      "item": "ap_trucare_wall_putty_suprema_pac_40kg",
+      "old_stock": 2400,
+      "new_stock": 2400,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 16:20:36.940516",
+      "type": "edited",
+      "site": "park_heights",
+      "category": "materials",
+      "item": "asian_interior_primer_suprema_pac_50kg",
+      "old_stock": 250,
+      "new_stock": 250,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 16:21:26.266178",
+      "type": "edited",
+      "site": "park_heights",
+      "category": "materials",
+      "item": "ap_filling_putty_pac_40kg",
+      "old_stock": 160,
+      "new_stock": 160,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 16:21:40.275068",
+      "type": "edited",
+      "site": "park_heights",
+      "category": "materials",
+      "item": "ap_tractor_suprema_emulsion_pac_20l",
+      "old_stock": 40,
+      "new_stock": 40,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 16:52:37.615599",
+      "type": "added",
+      "site": "park_heights",
+      "category": "materials",
+      "item": "dulux_interior_primer",
+      "quantity": 220,
+      "supplier": "",
+      "received_by": "Site Manager"
+    },
+    {
+      "date": "2025-11-07 16:53:32.981446",
+      "type": "added",
+      "site": "park_heights",
+      "category": "materials",
+      "item": "dulux_poly_putty",
+      "quantity": 600,
+      "supplier": "",
+      "received_by": "elango"
+    },
+    {
+      "date": "2025-11-07 16:53:57.167719",
+      "type": "added",
+      "site": "park_heights",
+      "category": "materials",
+      "item": "diae_premium_emulsion_(white_)",
+      "quantity": 100,
+      "supplier": "",
+      "received_by": "elango"
+    },
+    {
+      "date": "2025-11-07 16:54:15.168800",
+      "type": "added",
+      "site": "park_heights",
+      "category": "materials",
+      "item": "diae_premium_emulsion_(morning_glory)",
+      "quantity": 100,
+      "supplier": "",
+      "received_by": "elango"
+    },
+    {
+      "date": "2025-11-07 16:56:44.198857",
+      "type": "edited",
+      "site": "park_heights",
+      "category": "materials",
+      "item": "dulux_interior_primer",
+      "old_stock": 220,
+      "new_stock": 220,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 16:57:11.805624",
+      "type": "edited",
+      "site": "park_heights",
+      "category": "materials",
+      "item": "dulux_poly_putty",
+      "old_stock": 600,
+      "new_stock": 600,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 17:03:22.388019",
+      "type": "edited",
+      "site": "park_heights",
+      "category": "materials",
+      "item": "dulux_poly_putty",
+      "old_stock": 600,
+      "new_stock": 600,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 17:18:51.845876",
+      "type": "edited",
+      "site": "park_heights",
+      "category": "materials",
+      "item": "diae_premium_emulsion_(white_)",
+      "old_stock": 100,
+      "new_stock": 100,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-07 17:19:05.981069",
+      "type": "edited",
+      "site": "park_heights",
+      "category": "materials",
+      "item": "diae_premium_emulsion_(morning_glory)",
+      "old_stock": 100,
+      "new_stock": 100,
       "notes": ""
     }
   ],
