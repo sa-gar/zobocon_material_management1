@@ -2451,7 +2451,7 @@
           "rate": 0.0
         },
         "safety_shoes": {
-          "stock": 0,
+          "stock": 40,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -4339,6 +4339,16 @@
       "old_stock": 100,
       "new_stock": 100,
       "notes": ""
+    },
+    {
+      "date": "2025-11-07 17:58:47.494869",
+      "type": "added",
+      "site": "warehouse",
+      "category": "tools and accessories",
+      "item": "safety_shoes",
+      "quantity": 40,
+      "supplier": "",
+      "received_by": "om sir"
     }
   ],
   "system_info": {
