@@ -75,9 +75,10 @@
           "stock": 100,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 30,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 19.0,
+          "code": "N/A"
         },
         "safety_face_mask": {
           "stock": 80,
@@ -85,7 +86,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 6.0,
+          "code": "N/A"
         },
         "grinding_disks_4_inch": {
           "stock": 18,
@@ -93,47 +95,53 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 737.0,
+          "code": "N/A"
         },
         "9_inch_int_roller": {
           "stock": 54,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 10,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 89.0,
+          "code": "N/A"
         },
         "sand_paper_square_grit_320": {
           "stock": 50,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 10,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 17.0,
+          "code": "N/A"
         },
         "round_sand_paper_for_machine_220": {
           "stock": 35,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 15,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 19.0,
+          "code": "N/A"
         },
         "320_grit_round_sand_paper": {
           "stock": 35,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 15,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 19.0,
+          "code": "N/A"
         },
         "6_inch_brush": {
           "stock": 34,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 15,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 171.0,
+          "code": "N/A"
         },
         "sanding_pad": {
           "stock": 28,
@@ -141,15 +149,17 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 160.0,
+          "code": "N/A"
         },
         "reflective_safety_jackets_orange": {
           "stock": 28,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 10,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 58.0,
+          "code": "N/A"
         },
         "safety_goggles": {
           "stock": 27,
@@ -157,15 +167,17 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 38.0,
+          "code": "N/A"
         },
         "masking_tape_1_inch": {
           "stock": 26,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 10,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 32.0,
+          "code": "N/A"
         },
         "industrial_plug__socket_female": {
           "stock": 25,
@@ -173,39 +185,44 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 78.0,
+          "code": "N/A"
         },
         "dhothi": {
           "stock": 24,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 10,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 26.0,
+          "code": "N/A"
         },
         "masking_tape_2_inch": {
           "stock": 24,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 15,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 48.0,
+          "code": "N/A"
         },
         "round_grit_150": {
           "stock": 22,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 10,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 19.0,
+          "code": "N/A"
         },
         "tarpaulin": {
           "stock": 22,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 10,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 637.0,
+          "code": "N/A"
         },
         "helmet": {
           "stock": 20,
@@ -213,7 +230,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 89.0,
+          "code": "N/A"
         },
         "buckets": {
           "stock": 15,
@@ -221,31 +239,35 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 100.0,
+          "code": "N/A"
         },
         "gloves": {
           "stock": 19,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 10,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 24.0,
+          "code": "N/A"
         },
         "9_inch_ext_roller": {
           "stock": 17,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 10,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 89.0,
+          "code": "N/A"
         },
         "gurmala": {
           "stock": 15,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 10,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 57.0,
+          "code": "N/A"
         },
         "safety_shoes": {
           "stock": 15,
@@ -253,7 +275,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 400.0,
+          "code": "N/A"
         },
         "industrial_plug__socket_male": {
           "stock": 15,
@@ -261,15 +284,17 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 77.0,
+          "code": "N/A"
         },
         "grinding_disks_5_inch": {
           "stock": 13,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 10,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 737.0,
+          "code": "N/A"
         },
         "16_amps_female_socket": {
           "stock": 13,
@@ -277,7 +302,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 78.0,
+          "code": "N/A"
         },
         "6_inch_face_shield": {
           "stock": 12,
@@ -299,9 +325,10 @@
           "stock": 12,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 5,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 1075.0,
+          "code": "N/A"
         },
         "safety_belts__harness": {
           "stock": 11,
@@ -309,7 +336,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 720.0,
+          "code": "N/A"
         },
         "steel_gurmala_black": {
           "stock": 10,
@@ -317,7 +345,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 57.0,
+          "code": "N/A"
         },
         "round_sand_paper_for_machine_150": {
           "stock": 9,
@@ -347,9 +376,10 @@
           "stock": 8,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 4,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 2714.0,
+          "code": "N/A"
         },
         "safety_harness": {
           "stock": 7,
@@ -357,23 +387,26 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 720.0,
+          "code": "N/A"
         },
         "locks_purchased": {
           "stock": 6,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 3,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 80.0,
+          "code": "N/A"
         },
         "fall_arrester": {
           "stock": 6,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 2,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 1475.0,
+          "code": "N/A"
         },
         "led_light_stand": {
           "stock": 6,
@@ -443,9 +476,10 @@
           "stock": 3,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 2,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 5499.0,
+          "code": "N/A"
         },
         "reflective_safety_jacket___green": {
           "stock": 4,
@@ -469,7 +503,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 1155.0,
+          "code": "N/A"
         },
         "almera": {
           "stock": 2,
@@ -477,7 +512,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 5000.0,
+          "code": "N/A"
         },
         "air_compressor_hose_pipe": {
           "stock": 3,
@@ -715,7 +751,7 @@
           "stock": 13,
           "used": 0,
           "unit": "",
-          "min_stock": 0,
+          "min_stock": 3,
           "category": "tools and accessories",
           "rate": 0.0,
           "code": "N/A"
@@ -1961,8 +1997,8 @@
           "code": "N/A"
         },
         "jk_wall_maxx_(fine_putty)": {
-          "stock": 2280,
-          "used": 0,
+          "stock": 1661,
+          "used": 619,
           "unit": "kg",
           "min_stock": 200,
           "category": "materials",
@@ -1970,7 +2006,7 @@
           "code": "N/A"
         },
         "birla_fine_putty": {
-          "stock": 1590,
+          "stock": 2490,
           "used": 0,
           "unit": "kg",
           "min_stock": 100,
@@ -2083,7 +2119,7 @@
           "rate": 0.0
         },
         "dhothi": {
-          "stock": 13,
+          "stock": 33,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -2147,7 +2183,7 @@
           "rate": 0.0
         },
         "putty_blade_8_inch": {
-          "stock": 2,
+          "stock": 26,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -2436,6 +2472,15 @@
           "category": "machines",
           "rate": 450000.0,
           "code": "N/A"
+        },
+        "kbn_compressor": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "machines",
+          "rate": 29382.0,
+          "code": "N/A"
         }
       }
     },
@@ -2495,7 +2540,7 @@
           "rate": 0.0
         },
         "dhothi": {
-          "stock": 13,
+          "stock": 143,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -3111,7 +3156,7 @@
           "rate": 0.0
         },
         "putty_blade_8_inch": {
-          "stock": 60,
+          "stock": 36,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -5108,6 +5153,531 @@
       "item": "laser_leveller_device",
       "old_stock": 1,
       "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 16:10:17.092007",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "sanding_paper_220",
+      "old_stock": 100,
+      "new_stock": 100,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 16:10:32.790912",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "safety_face_mask",
+      "old_stock": 80,
+      "new_stock": 80,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 16:12:10.676790",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "grinding_disks_4_inch",
+      "old_stock": 18,
+      "new_stock": 18,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 16:12:58.476645",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "9_inch_int_roller",
+      "old_stock": 54,
+      "new_stock": 54,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 16:13:18.321198",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "sand_paper_square_grit_320",
+      "old_stock": 50,
+      "new_stock": 50,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 16:14:51.409670",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "sand_paper_square_grit_320",
+      "old_stock": 50,
+      "new_stock": 50,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 16:17:15.575601",
+      "type": "added",
+      "site": "dnr highline",
+      "category": "machines",
+      "item": "kbn_compressor",
+      "quantity": 1,
+      "supplier": "",
+      "received_by": "hemant"
+    },
+    {
+      "date": "2025-11-10 16:26:39.778872",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "9_inch_int_roller",
+      "old_stock": 54,
+      "new_stock": 54,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 16:26:45.511701",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "sand_paper_square_grit_320",
+      "old_stock": 50,
+      "new_stock": 50,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 16:27:40.102767",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "round_sand_paper_for_machine_220",
+      "old_stock": 35,
+      "new_stock": 35,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 16:28:38.656468",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "320_grit_round_sand_paper",
+      "old_stock": 35,
+      "new_stock": 35,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 16:29:52.350979",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "6_inch_brush",
+      "old_stock": 34,
+      "new_stock": 34,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 16:52:32.383842",
+      "type": "added",
+      "site": "dnr highline",
+      "category": "materials",
+      "item": "birla_fine_putty",
+      "quantity": 900,
+      "supplier": "",
+      "received_by": "hemant"
+    },
+    {
+      "date": "2025-11-10 17:41:31.138409",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "sanding_pad",
+      "old_stock": 28,
+      "new_stock": 28,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 17:42:54.153868",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "reflective_safety_jackets_orange",
+      "old_stock": 28,
+      "new_stock": 28,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 17:43:13.502005",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "safety_goggles",
+      "old_stock": 27,
+      "new_stock": 27,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 17:43:36.125845",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "masking_tape_1_inch",
+      "old_stock": 26,
+      "new_stock": 26,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 17:43:40.100085",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "masking_tape_1_inch",
+      "old_stock": 26,
+      "new_stock": 26,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 17:44:34.715936",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "industrial_plug__socket_female",
+      "old_stock": 25,
+      "new_stock": 25,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 17:44:58.878148",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "dhothi",
+      "old_stock": 24,
+      "new_stock": 24,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 17:45:39.807843",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "masking_tape_2_inch",
+      "old_stock": 24,
+      "new_stock": 24,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 17:46:46.618042",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "round_grit_150",
+      "old_stock": 22,
+      "new_stock": 22,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 17:47:14.392085",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "tarpaulin",
+      "old_stock": 22,
+      "new_stock": 22,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 17:47:55.516242",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "helmet",
+      "old_stock": 20,
+      "new_stock": 20,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 17:48:21.450985",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "buckets",
+      "old_stock": 15,
+      "new_stock": 15,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 17:48:54.196698",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "gloves",
+      "old_stock": 19,
+      "new_stock": 19,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 17:49:39.163110",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "9_inch_ext_roller",
+      "old_stock": 17,
+      "new_stock": 17,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 17:49:52.286921",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "9_inch_ext_roller",
+      "old_stock": 17,
+      "new_stock": 17,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 17:50:20.942482",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "gurmala",
+      "old_stock": 15,
+      "new_stock": 15,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 17:51:07.936455",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "safety_shoes",
+      "old_stock": 15,
+      "new_stock": 15,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 17:51:43.200428",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "industrial_plug__socket_male",
+      "old_stock": 15,
+      "new_stock": 15,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 18:32:35.485728",
+      "type": "used",
+      "site": "dnr highline",
+      "category": "materials",
+      "item": "jk_wall_maxx_(fine_putty)",
+      "quantity": 619,
+      "work_area": "basement",
+      "supervisor": "hemant",
+      "purpose": "Construction"
+    },
+    {
+      "date": "2025-11-10 18:50:21.165196",
+      "type": "transfer",
+      "from_site": "warehouse",
+      "to_site": "dnr highline",
+      "category": "tools and accessories",
+      "item": "putty_blade_8_inch",
+      "quantity": 24,
+      "authorized_by": "hemant",
+      "driver_name": "taken by manjunath",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-10 18:50:47.962081",
+      "type": "added",
+      "site": "warehouse",
+      "category": "tools and accessories",
+      "item": "dhothi",
+      "quantity": 150,
+      "supplier": "",
+      "received_by": "Site Manager"
+    },
+    {
+      "date": "2025-11-10 18:51:29.172595",
+      "type": "transfer",
+      "from_site": "warehouse",
+      "to_site": "dnr highline",
+      "category": "tools and accessories",
+      "item": "dhothi",
+      "quantity": 20,
+      "authorized_by": "Site Manager",
+      "driver_name": "taken by manjunath",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-10 19:44:06.279100",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "grinding_disks_5_inch",
+      "old_stock": 13,
+      "new_stock": 13,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 19:44:38.221182",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "16_amps_female_socket",
+      "old_stock": 13,
+      "new_stock": 13,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 19:48:10.001171",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "junction_box",
+      "old_stock": 12,
+      "new_stock": 12,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 19:50:04.588830",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "safety_belts__harness",
+      "old_stock": 11,
+      "new_stock": 11,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 19:50:47.984456",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "steel_gurmala_black",
+      "old_stock": 10,
+      "new_stock": 10,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 19:55:56.546660",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "led_lights_200w",
+      "old_stock": 8,
+      "new_stock": 8,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 19:56:34.530043",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "safety_harness",
+      "old_stock": 7,
+      "new_stock": 7,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 19:57:05.055674",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "locks_purchased",
+      "old_stock": 6,
+      "new_stock": 6,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 19:57:36.985007",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "fall_arrester",
+      "old_stock": 6,
+      "new_stock": 6,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 19:58:01.229793",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "almera",
+      "old_stock": 2,
+      "new_stock": 2,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 19:58:18.163309",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "trolley",
+      "old_stock": 3,
+      "new_stock": 3,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 19:58:20.929480",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "trolley",
+      "old_stock": 3,
+      "new_stock": 3,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 19:58:48.294562",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "led_lights_50w",
+      "old_stock": 3,
+      "new_stock": 3,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 20:00:23.015597",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "scaffolding_table",
+      "old_stock": 13,
+      "new_stock": 13,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 20:00:25.981917",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "scaffolding_table",
+      "old_stock": 13,
+      "new_stock": 13,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 20:11:52.621184",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "scaffolding_table",
+      "old_stock": 13,
+      "new_stock": 13,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 20:11:55.751804",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "scaffolding_table",
+      "old_stock": 13,
+      "new_stock": 13,
       "notes": ""
     }
   ],
