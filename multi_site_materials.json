@@ -909,8 +909,8 @@
           "code": ""
         },
         "trucare_acrylic_wall_putty": {
-          "stock": 220,
-          "used": 0,
+          "stock": 705,
+          "used": 515,
           "unit": "kg",
           "min_stock": 0,
           "category": "materials",
@@ -945,8 +945,8 @@
           "code": ""
         },
         "asian_trucare_wall_putty_pac_40kg": {
-          "stock": 840,
-          "used": 0,
+          "stock": 557,
+          "used": 283,
           "unit": "kg",
           "min_stock": 0,
           "category": "materials",
@@ -999,8 +999,8 @@
           "code": ""
         },
         "surya_cem_white_cement": {
-          "stock": 70,
-          "used": 0,
+          "stock": 50,
+          "used": 20,
           "unit": "kg",
           "min_stock": 0,
           "category": "materials",
@@ -1834,7 +1834,7 @@
           "rate": 0.0
         },
         "laser_leveller_device": {
-          "stock": 1,
+          "stock": 0,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -1860,8 +1860,8 @@
           "code": "N/A"
         },
         "dulux_sc_exterior_primer": {
-          "stock": 290,
-          "used": 0,
+          "stock": 906,
+          "used": 384,
           "unit": "kgs",
           "min_stock": 100,
           "category": "materials",
@@ -3469,7 +3469,17 @@
           "code": "N/A"
         }
       },
-      "machines": {}
+      "machines": {
+        "laser_leveller_device": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "machines",
+          "rate": 0.0,
+          "code": "N/A"
+        }
+      }
     }
   },
   "transactions": [
@@ -4566,6 +4576,82 @@
       "old_stock": 160,
       "new_stock": 160,
       "notes": ""
+    },
+    {
+      "date": "2025-11-08 13:50:22.686206",
+      "type": "added",
+      "site": "dnr highline",
+      "category": "materials",
+      "item": "dulux_sc_exterior_primer",
+      "quantity": 1000,
+      "supplier": "sn enterprises",
+      "received_by": "hemant"
+    },
+    {
+      "date": "2025-11-08 13:50:59.197630",
+      "type": "used",
+      "site": "dnr highline",
+      "category": "materials",
+      "item": "dulux_sc_exterior_primer",
+      "quantity": 384,
+      "work_area": "shaft",
+      "supervisor": "Site Supervisor",
+      "purpose": "Other"
+    },
+    {
+      "date": "2025-11-08 13:52:09.679562",
+      "type": "added",
+      "site": "ADARSH PREMIA SITE",
+      "category": "materials",
+      "item": "trucare_acrylic_wall_putty",
+      "quantity": 1000,
+      "supplier": "",
+      "received_by": "Site Manager"
+    },
+    {
+      "date": "2025-11-08 18:48:51.480661",
+      "type": "used",
+      "site": "ADARSH PREMIA SITE",
+      "category": "materials",
+      "item": "surya_cem_white_cement",
+      "quantity": 20,
+      "work_area": "toilet",
+      "supervisor": "nagesh",
+      "purpose": "Construction"
+    },
+    {
+      "date": "2025-11-08 18:51:17.408467",
+      "type": "used",
+      "site": "ADARSH PREMIA SITE",
+      "category": "materials",
+      "item": "asian_trucare_wall_putty_pac_40kg",
+      "quantity": 283,
+      "work_area": "flat,balcony",
+      "supervisor": "nagesh",
+      "purpose": "Construction"
+    },
+    {
+      "date": "2025-11-08 18:56:12.406623",
+      "type": "used",
+      "site": "ADARSH PREMIA SITE",
+      "category": "materials",
+      "item": "trucare_acrylic_wall_putty",
+      "quantity": 515,
+      "work_area": "flat",
+      "supervisor": "nagesh",
+      "purpose": "Other"
+    },
+    {
+      "date": "2025-11-10 14:24:52.884367",
+      "type": "transfer",
+      "from_site": "park_heights",
+      "to_site": "ADARSH TROPICA",
+      "category": "machines",
+      "item": "laser_leveller_device",
+      "quantity": 1,
+      "authorized_by": "prasanna sir",
+      "driver_name": "gouddapa",
+      "vehicle_number": ""
     }
   ],
   "system_info": {
