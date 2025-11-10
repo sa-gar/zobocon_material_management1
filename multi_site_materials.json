@@ -726,25 +726,28 @@
           "stock": 1,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 1,
           "category": "machines",
-          "rate": 0.0
+          "rate": 450000.0,
+          "code": "N/A"
         },
         "sanding_machine": {
           "stock": 5,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 2,
           "category": "machines",
-          "rate": 0.0
+          "rate": 6300.0,
+          "code": "N/A"
         },
         "grinding_machine__4_inch": {
           "stock": 15,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 6,
           "category": "machines",
-          "rate": 0.0
+          "rate": 2743.0,
+          "code": "N/A"
         },
         "grinding_machine__7_inch": {
           "stock": 4,
@@ -752,7 +755,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0
+          "rate": 8199.0,
+          "code": "N/A"
         },
         "grinding_machine__5_inch": {
           "stock": 1,
@@ -768,7 +772,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0
+          "rate": 10342.0,
+          "code": "N/A"
         },
         "compressor___1_old": {
           "stock": 1,
@@ -776,7 +781,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0
+          "rate": 10342.0,
+          "code": "N/A"
         },
         "fine_putty_airless_hydraulic_spray_pump___meco_hydro_ub_253_machine": {
           "stock": 2,
@@ -784,7 +790,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0
+          "rate": 171100.0,
+          "code": "N/A"
         },
         "coarse_putty_sprayer_mi_1500_machine": {
           "stock": 3,
@@ -792,7 +799,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0
+          "rate": 59885.0,
+          "code": "N/A"
         },
         "low_power_airless_paint_sprayer_meco_595_machine": {
           "stock": 1,
@@ -800,7 +808,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0
+          "rate": 41300.0,
+          "code": "N/A"
         },
         "high_power_airless_paint_sprayer_xtaps_850_machine": {
           "stock": 1,
@@ -808,7 +817,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0
+          "rate": 53100.0,
+          "code": "N/A"
         },
         "putty_mixer_machine_bosch_new": {
           "stock": 3,
@@ -816,7 +826,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0
+          "rate": 5850.0,
+          "code": "N/A"
         },
         "putty_mixer_machine_asian": {
           "stock": 1,
@@ -832,7 +843,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0
+          "rate": 700.0,
+          "code": "N/A"
         },
         "tip_531": {
           "stock": 1,
@@ -848,7 +860,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0
+          "rate": 8024.0,
+          "code": "N/A"
         },
         "2_set_of_pipes_blue": {
           "stock": 6,
@@ -856,7 +869,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0
+          "rate": 1062.0,
+          "code": "N/A"
         },
         "4_air_blow_nozzle": {
           "stock": 3,
@@ -864,15 +878,17 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0
+          "rate": 118.0,
+          "code": "N/A"
         },
         "multi_meter": {
-          "stock": 8,
+          "stock": 1,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0
+          "rate": 662.0,
+          "code": "N/A"
         },
         "airless_reversible_spray_tip": {
           "stock": 1,
@@ -1233,7 +1249,7 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0,
+          "rate": 600.0,
           "code": ""
         },
         "laser_level_device": {
@@ -1242,7 +1258,7 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0,
+          "rate": 1630.0,
           "code": ""
         },
         "graco_mark_vii,_dc_motor_machine": {
@@ -1251,7 +1267,7 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0,
+          "rate": 450000.0,
           "code": ""
         },
         "graco_oil": {
@@ -1260,16 +1276,16 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0,
+          "rate": 3776.0,
           "code": ""
         },
         "hydraulic_oil_201": {
           "stock": 1,
           "used": 0,
-          "unit": "pieces",
+          "unit": "20L",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0,
+          "rate": 3020.0,
           "code": ""
         },
         "putty_mixer_machine_bosch_new": {
@@ -1278,7 +1294,7 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0,
+          "rate": 6903.0,
           "code": ""
         },
         "paint_spry_machine_graco": {
@@ -1287,7 +1303,7 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0,
+          "rate": 200000.0,
           "code": ""
         },
         "graco_fine_putty_machine": {
@@ -1296,16 +1312,16 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0,
+          "rate": 450000.0,
           "code": ""
         },
         "sanding_machine": {
           "stock": 8,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 3,
           "category": "machines",
-          "rate": 0.0,
+          "rate": 6300.0,
           "code": ""
         }
       }
@@ -1807,7 +1823,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0
+          "rate": 2743.0,
+          "code": "N/A"
         },
         "sanding_machine": {
           "stock": 3,
@@ -1815,7 +1832,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0
+          "rate": 6300.0,
+          "code": "N/A"
         },
         "graco_fine_putty_machine": {
           "stock": 1,
@@ -1823,7 +1841,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0
+          "rate": 450000.0,
+          "code": "N/A"
         },
         "btali_air_compressor": {
           "stock": 1,
@@ -1831,7 +1850,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0
+          "rate": 10342.0,
+          "code": "N/A"
         },
         "laser_leveller_device": {
           "stock": 0,
@@ -1839,7 +1859,7 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0,
+          "rate": 1630.0,
           "code": "N/A"
         }
       }
@@ -2351,7 +2371,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0
+          "rate": 6903.0,
+          "code": "N/A"
         },
         "putty_mixer_machine_asian": {
           "stock": 1,
@@ -2359,7 +2380,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0
+          "rate": 2500.0,
+          "code": "N/A"
         },
         "paint_spray_machine_graco": {
           "stock": 1,
@@ -2367,7 +2389,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0
+          "rate": 200000.0,
+          "code": "N/A"
         },
         "undulation_device": {
           "stock": 2,
@@ -2375,7 +2398,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0
+          "rate": 600.0,
+          "code": "N/A"
         },
         "airless_paint_sprayer_xtaps850": {
           "stock": 1,
@@ -2383,7 +2407,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0
+          "rate": 53100.0,
+          "code": "N/A"
         },
         "laser_level_device": {
           "stock": 1,
@@ -2391,7 +2416,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0
+          "rate": 1630.0,
+          "code": "N/A"
         },
         "sanding_machine": {
           "stock": 6,
@@ -2399,7 +2425,7 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0,
+          "rate": 6300.0,
           "code": "N/A"
         },
         "graco_mark_vii,_dc_motor_machine": {
@@ -2408,7 +2434,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0
+          "rate": 450000.0,
+          "code": "N/A"
         }
       }
     },
@@ -3476,7 +3503,7 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "machines",
-          "rate": 0.0,
+          "rate": 1630.0,
           "code": "N/A"
         }
       }
@@ -4652,6 +4679,436 @@
       "authorized_by": "prasanna sir",
       "driver_name": "gouddapa",
       "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-10 15:06:51.535831",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "machines",
+      "item": "graco_fine_putty_machine",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:07:07.969221",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "machines",
+      "item": "sanding_machine",
+      "old_stock": 5,
+      "new_stock": 5,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:07:42.755435",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "machines",
+      "item": "grinding_machine__4_inch",
+      "old_stock": 15,
+      "new_stock": 15,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:07:51.193937",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "machines",
+      "item": "sanding_machine",
+      "old_stock": 5,
+      "new_stock": 5,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:08:03.238290",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "machines",
+      "item": "graco_fine_putty_machine",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:08:56.014302",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "machines",
+      "item": "grinding_machine__7_inch",
+      "old_stock": 4,
+      "new_stock": 4,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:09:27.259022",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "machines",
+      "item": "btali_air_compressor",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:09:46.553457",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "machines",
+      "item": "compressor___1_old",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:10:02.423630",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "machines",
+      "item": "fine_putty_airless_hydraulic_spray_pump___meco_hydro_ub_253_machine",
+      "old_stock": 2,
+      "new_stock": 2,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:10:36.604759",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "machines",
+      "item": "coarse_putty_sprayer_mi_1500_machine",
+      "old_stock": 3,
+      "new_stock": 3,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:10:55.259381",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "machines",
+      "item": "low_power_airless_paint_sprayer_meco_595_machine",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:11:26.376982",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "machines",
+      "item": "high_power_airless_paint_sprayer_xtaps_850_machine",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:11:48.220895",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "machines",
+      "item": "putty_mixer_machine_bosch_new",
+      "old_stock": 3,
+      "new_stock": 3,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:12:06.826114",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "machines",
+      "item": "putty_mixer_machine_bosch_new",
+      "old_stock": 3,
+      "new_stock": 3,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:13:40.327109",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "machines",
+      "item": "undulation_device",
+      "old_stock": 12,
+      "new_stock": 12,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:14:14.810847",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "machines",
+      "item": "paint_spray_gun",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:14:33.653219",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "machines",
+      "item": "2_set_of_pipes_blue",
+      "old_stock": 6,
+      "new_stock": 6,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:14:48.607269",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "machines",
+      "item": "4_air_blow_nozzle",
+      "old_stock": 3,
+      "new_stock": 3,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:15:21.538161",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "machines",
+      "item": "multi_meter",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:17:40.386830",
+      "type": "edited",
+      "site": "ADARSH PREMIA SITE",
+      "category": "machines",
+      "item": "undulation_device",
+      "old_stock": 2,
+      "new_stock": 2,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:17:55.926488",
+      "type": "edited",
+      "site": "ADARSH PREMIA SITE",
+      "category": "machines",
+      "item": "laser_level_device",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:25:36.240492",
+      "type": "edited",
+      "site": "ADARSH PREMIA SITE",
+      "category": "machines",
+      "item": "graco_mark_vii,_dc_motor_machine",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:27:11.679410",
+      "type": "edited",
+      "site": "ADARSH PREMIA SITE",
+      "category": "machines",
+      "item": "graco_oil",
+      "old_stock": 0,
+      "new_stock": 0,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:27:44.201813",
+      "type": "edited",
+      "site": "ADARSH PREMIA SITE",
+      "category": "machines",
+      "item": "hydraulic_oil_201",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:28:50.232927",
+      "type": "edited",
+      "site": "ADARSH PREMIA SITE",
+      "category": "machines",
+      "item": "putty_mixer_machine_bosch_new",
+      "old_stock": 4,
+      "new_stock": 4,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:29:19.030455",
+      "type": "edited",
+      "site": "ADARSH PREMIA SITE",
+      "category": "machines",
+      "item": "paint_spry_machine_graco",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:30:23.980885",
+      "type": "edited",
+      "site": "ADARSH PREMIA SITE",
+      "category": "machines",
+      "item": "paint_spry_machine_graco",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:31:00.449049",
+      "type": "edited",
+      "site": "ADARSH PREMIA SITE",
+      "category": "machines",
+      "item": "graco_fine_putty_machine",
+      "old_stock": 0,
+      "new_stock": 0,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:32:42.874690",
+      "type": "edited",
+      "site": "ADARSH PREMIA SITE",
+      "category": "machines",
+      "item": "sanding_machine",
+      "old_stock": 8,
+      "new_stock": 8,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:33:35.889515",
+      "type": "edited",
+      "site": "park_heights",
+      "category": "machines",
+      "item": "grinding_machine__4_inch",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:34:49.283220",
+      "type": "edited",
+      "site": "park_heights",
+      "category": "machines",
+      "item": "sanding_machine",
+      "old_stock": 3,
+      "new_stock": 3,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:35:12.131869",
+      "type": "edited",
+      "site": "park_heights",
+      "category": "machines",
+      "item": "graco_fine_putty_machine",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:35:40.702283",
+      "type": "edited",
+      "site": "park_heights",
+      "category": "machines",
+      "item": "btali_air_compressor",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:35:57.561208",
+      "type": "edited",
+      "site": "park_heights",
+      "category": "machines",
+      "item": "laser_leveller_device",
+      "old_stock": 0,
+      "new_stock": 0,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:41:28.324121",
+      "type": "edited",
+      "site": "dnr highline",
+      "category": "machines",
+      "item": "putty_mixer_machine_bosch_new",
+      "old_stock": 4,
+      "new_stock": 4,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:51:44.276753",
+      "type": "edited",
+      "site": "dnr highline",
+      "category": "machines",
+      "item": "putty_mixer_machine_asian",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:53:17.268367",
+      "type": "edited",
+      "site": "dnr highline",
+      "category": "machines",
+      "item": "paint_spray_machine_graco",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:53:30.721948",
+      "type": "edited",
+      "site": "dnr highline",
+      "category": "machines",
+      "item": "undulation_device",
+      "old_stock": 2,
+      "new_stock": 2,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:53:54.355083",
+      "type": "edited",
+      "site": "dnr highline",
+      "category": "machines",
+      "item": "airless_paint_sprayer_xtaps850",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:54:05.292061",
+      "type": "edited",
+      "site": "dnr highline",
+      "category": "machines",
+      "item": "laser_level_device",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:54:24.585930",
+      "type": "edited",
+      "site": "dnr highline",
+      "category": "machines",
+      "item": "sanding_machine",
+      "old_stock": 6,
+      "new_stock": 6,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:54:50.005327",
+      "type": "edited",
+      "site": "dnr highline",
+      "category": "machines",
+      "item": "graco_mark_vii,_dc_motor_machine",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-10 15:55:39.909516",
+      "type": "edited",
+      "site": "ADARSH TROPICA",
+      "category": "machines",
+      "item": "laser_leveller_device",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
     }
   ],
   "system_info": {
