@@ -297,7 +297,7 @@
           "code": "N/A"
         },
         "16_amps_female_socket": {
-          "stock": 13,
+          "stock": 26,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -755,6 +755,30 @@
           "category": "tools and accessories",
           "rate": 0.0,
           "code": "N/A"
+        },
+        "fiber_gurmala_5.5": {
+          "stock": 12,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "male_sockets": {
+          "stock": 13,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "led_light_100_w": {
+          "stock": 2,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
         }
       },
       "machines": {
@@ -1507,7 +1531,7 @@
           "rate": 0.0
         },
         "putty_blade_with_handle_8_inch": {
-          "stock": 3,
+          "stock": 13,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -1515,7 +1539,7 @@
           "rate": 0.0
         },
         "putty_blade_with_handle_12_inch": {
-          "stock": 3,
+          "stock": 4,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -1547,7 +1571,7 @@
           "rate": 0.0
         },
         "tarpaulin": {
-          "stock": 1,
+          "stock": 6,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -1845,6 +1869,102 @@
         },
         "stool_4,6_ft": {
           "stock": 2,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "sanding_pad_9x4_inch": {
+          "stock": 14,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "interior_6_inch_roller_1+1_sponge": {
+          "stock": 10,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "helmets_yellow": {
+          "stock": 10,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "safety_shoes": {
+          "stock": 10,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "teflon_tape_yellow_plumbing": {
+          "stock": 4,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "2_core_1.5mm_90_mtr": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "graco_oil": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "dhothi": {
+          "stock": 20,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "2_inch_int_roller": {
+          "stock": 10,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "4_inch_int_roller_1+_2sponge": {
+          "stock": 10,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "sanding_gloves_with_grip": {
+          "stock": 2,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
+        },
+        "putty_blade_4_inch": {
+          "stock": 8,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -2500,12 +2620,13 @@
       "materials": {},
       "tools and accessories": {
         "tarpaulin": {
-          "stock": 2,
+          "stock": 30,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 15,
           "category": "tools and accessories",
-          "rate": 0.0
+          "rate": 0.0,
+          "code": "N/A"
         },
         "empty_drum_200lt": {
           "stock": 1,
@@ -2540,7 +2661,7 @@
           "rate": 0.0
         },
         "safety_shoes": {
-          "stock": 40,
+          "stock": 30,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -2548,7 +2669,7 @@
           "rate": 0.0
         },
         "dhothi": {
-          "stock": 143,
+          "stock": 123,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -2580,7 +2701,7 @@
           "rate": 0.0
         },
         "16_amps_female_socket": {
-          "stock": 30,
+          "stock": 17,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -2604,7 +2725,7 @@
           "rate": 0.0
         },
         "2_core_1.5mm_90_mtr": {
-          "stock": 68,
+          "stock": 67,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -2612,7 +2733,7 @@
           "rate": 0.0
         },
         "2_inch_int_roller": {
-          "stock": 109,
+          "stock": 99,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -2652,7 +2773,7 @@
           "rate": 0.0
         },
         "4_inch_int_roller_1+_2sponge": {
-          "stock": 23,
+          "stock": 13,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -2908,7 +3029,7 @@
           "rate": 0.0
         },
         "fiber_gurmala_5.5": {
-          "stock": 20,
+          "stock": 8,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -2924,7 +3045,7 @@
           "rate": 0.0
         },
         "graco_oil": {
-          "stock": 40,
+          "stock": 39,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -2964,7 +3085,7 @@
           "rate": 0.0
         },
         "helmets_yellow": {
-          "stock": 0,
+          "stock": 5,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -2980,7 +3101,7 @@
           "rate": 0.0
         },
         "interior_6_inch_roller_1+1_sponge": {
-          "stock": 61,
+          "stock": 51,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -3004,7 +3125,7 @@
           "rate": 0.0
         },
         "led_light_100_w": {
-          "stock": 3,
+          "stock": 1,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -3052,7 +3173,7 @@
           "rate": 0.0
         },
         "male_sockets": {
-          "stock": 110,
+          "stock": 97,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -3068,12 +3189,13 @@
           "rate": 0.0
         },
         "masking_tape_2_inch": {
-          "stock": 0,
+          "stock": 100,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 20,
           "category": "tools and accessories",
-          "rate": 0.0
+          "rate": 0.0,
+          "code": "N/A"
         },
         "masking_tape_4_inch": {
           "stock": 0,
@@ -3156,7 +3278,7 @@
           "rate": 0.0
         },
         "putty_blade_4_inch": {
-          "stock": 72,
+          "stock": 64,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -3180,20 +3302,22 @@
           "rate": 0.0
         },
         "putty_blade_with_handle_12_inch": {
-          "stock": 0,
+          "stock": 47,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 15,
           "category": "tools and accessories",
-          "rate": 0.0
+          "rate": 106.0,
+          "code": "N/A"
         },
         "putty_blade_with_handle_8_inch": {
-          "stock": 0,
+          "stock": 46,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 15,
           "category": "tools and accessories",
-          "rate": 0.0
+          "rate": 71.0,
+          "code": "N/A"
         },
         "pvc_roller": {
           "stock": 18,
@@ -3276,7 +3400,7 @@
           "rate": 0.0
         },
         "sanding_gloves_with_grip": {
-          "stock": 22,
+          "stock": 20,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -3284,7 +3408,7 @@
           "rate": 0.0
         },
         "sanding_pad_9x4_inch": {
-          "stock": 40,
+          "stock": 26,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -3452,7 +3576,7 @@
           "rate": 0.0
         },
         "teflon_tape_yellow_plumbing": {
-          "stock": 15,
+          "stock": 11,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -5723,6 +5847,322 @@
       "authorized_by": "prasanna sir",
       "driver_name": "N/A",
       "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-12 11:47:29.390743",
+      "type": "added",
+      "site": "warehouse",
+      "category": "machines",
+      "item": "putty_blade_with_handle_",
+      "quantity": 56,
+      "supplier": "",
+      "received_by": "mir"
+    },
+    {
+      "date": "2025-11-12 11:51:31.321838",
+      "type": "deleted",
+      "site": "warehouse",
+      "category": "machines",
+      "item": "putty_blade_with_handle_",
+      "deleted_stock": 56
+    },
+    {
+      "date": "2025-11-12 11:52:17.677448",
+      "type": "edited",
+      "site": "warehouse",
+      "category": "tools and accessories",
+      "item": "putty_blade_with_handle_8_inch",
+      "old_stock": 56,
+      "new_stock": 56,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 11:52:52.724872",
+      "type": "edited",
+      "site": "warehouse",
+      "category": "tools and accessories",
+      "item": "putty_blade_with_handle_12_inch",
+      "old_stock": 48,
+      "new_stock": 48,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 11:53:54.275692",
+      "type": "edited",
+      "site": "warehouse",
+      "category": "tools and accessories",
+      "item": "tarpaulin",
+      "old_stock": 35,
+      "new_stock": 35,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 11:55:46.725376",
+      "type": "edited",
+      "site": "warehouse",
+      "category": "tools and accessories",
+      "item": "tarpaulin",
+      "old_stock": 35,
+      "new_stock": 35,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 11:57:48.493799",
+      "type": "transfer",
+      "from_site": "warehouse",
+      "to_site": "park_heights",
+      "category": "tools and accessories",
+      "item": "tarpaulin",
+      "quantity": 5,
+      "authorized_by": "shivendra sir",
+      "driver_name": "porter",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-12 12:02:30.709232",
+      "type": "transfer",
+      "from_site": "warehouse",
+      "to_site": "park_heights",
+      "category": "tools and accessories",
+      "item": "putty_blade_with_handle_8_inch",
+      "quantity": 10,
+      "authorized_by": "shivendra sir",
+      "driver_name": "porter",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-12 12:02:37.759839",
+      "type": "transfer",
+      "from_site": "warehouse",
+      "to_site": "park_heights",
+      "category": "tools and accessories",
+      "item": "putty_blade_with_handle_12_inch",
+      "quantity": 1,
+      "authorized_by": "shivendra sir",
+      "driver_name": "porter",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-12 12:03:27.654548",
+      "type": "transfer",
+      "from_site": "warehouse",
+      "to_site": "park_heights",
+      "category": "tools and accessories",
+      "item": "sanding_pad_9x4_inch",
+      "quantity": 14,
+      "authorized_by": "shivendra sir",
+      "driver_name": "porter",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-12 12:04:32.511569",
+      "type": "transfer",
+      "from_site": "warehouse",
+      "to_site": "park_heights",
+      "category": "tools and accessories",
+      "item": "interior_6_inch_roller_1+1_sponge",
+      "quantity": 10,
+      "authorized_by": "shivendra sir",
+      "driver_name": "porter",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-12 12:24:27.741480",
+      "type": "transfer",
+      "from_site": "warehouse",
+      "to_site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "fiber_gurmala_5.5",
+      "quantity": 12,
+      "authorized_by": "prasanna sir",
+      "driver_name": "porter",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-12 12:25:09.369606",
+      "type": "transfer",
+      "from_site": "warehouse",
+      "to_site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "male_sockets",
+      "quantity": 13,
+      "authorized_by": "prasanna sir",
+      "driver_name": "porter",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-12 12:25:32.933483",
+      "type": "transfer",
+      "from_site": "warehouse",
+      "to_site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "16_amps_female_socket",
+      "quantity": 13,
+      "authorized_by": "prasanna sir",
+      "driver_name": "porter",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-12 12:26:59.146269",
+      "type": "transfer",
+      "from_site": "warehouse",
+      "to_site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "led_light_100_w",
+      "quantity": 2,
+      "authorized_by": "prasanna sir",
+      "driver_name": "porter",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-12 12:28:17.030576",
+      "type": "added",
+      "site": "warehouse",
+      "category": "tools and accessories",
+      "item": "helmets_yellow",
+      "quantity": 15,
+      "supplier": "",
+      "received_by": "Site Manager"
+    },
+    {
+      "date": "2025-11-12 12:32:26.354228",
+      "type": "transfer",
+      "from_site": "warehouse",
+      "to_site": "park_heights",
+      "category": "tools and accessories",
+      "item": "helmets_yellow",
+      "quantity": 10,
+      "authorized_by": "shivendra",
+      "driver_name": "porter",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-12 12:32:45.450682",
+      "type": "transfer",
+      "from_site": "warehouse",
+      "to_site": "park_heights",
+      "category": "tools and accessories",
+      "item": "safety_shoes",
+      "quantity": 10,
+      "authorized_by": "shivendra",
+      "driver_name": "porter",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-12 12:33:42.778901",
+      "type": "transfer",
+      "from_site": "warehouse",
+      "to_site": "park_heights",
+      "category": "tools and accessories",
+      "item": "teflon_tape_yellow_plumbing",
+      "quantity": 4,
+      "authorized_by": "shivendra sir",
+      "driver_name": "porter",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-12 12:33:58.426330",
+      "type": "transfer",
+      "from_site": "warehouse",
+      "to_site": "park_heights",
+      "category": "tools and accessories",
+      "item": "2_core_1.5mm_90_mtr",
+      "quantity": 1,
+      "authorized_by": "shivendra sir",
+      "driver_name": "porter",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-12 12:34:15.874860",
+      "type": "transfer",
+      "from_site": "warehouse",
+      "to_site": "park_heights",
+      "category": "tools and accessories",
+      "item": "graco_oil",
+      "quantity": 1,
+      "authorized_by": "shivendra sir",
+      "driver_name": "porter",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-12 12:34:31.973455",
+      "type": "transfer",
+      "from_site": "warehouse",
+      "to_site": "park_heights",
+      "category": "tools and accessories",
+      "item": "dhothi",
+      "quantity": 20,
+      "authorized_by": "shivendra sir",
+      "driver_name": "porter",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-12 12:34:51.580926",
+      "type": "transfer",
+      "from_site": "warehouse",
+      "to_site": "park_heights",
+      "category": "tools and accessories",
+      "item": "2_inch_int_roller",
+      "quantity": 10,
+      "authorized_by": "shivendra sir",
+      "driver_name": "porter",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-12 12:35:14.331710",
+      "type": "transfer",
+      "from_site": "warehouse",
+      "to_site": "park_heights",
+      "category": "tools and accessories",
+      "item": "4_inch_int_roller_1+_2sponge",
+      "quantity": 10,
+      "authorized_by": "shivendra sir",
+      "driver_name": "porter",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-12 12:35:30.778762",
+      "type": "transfer",
+      "from_site": "warehouse",
+      "to_site": "park_heights",
+      "category": "tools and accessories",
+      "item": "sanding_gloves_with_grip",
+      "quantity": 2,
+      "authorized_by": "shivendra sir",
+      "driver_name": "porter",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-12 12:36:21.525671",
+      "type": "transfer",
+      "from_site": "warehouse",
+      "to_site": "park_heights",
+      "category": "tools and accessories",
+      "item": "putty_blade_4_inch",
+      "quantity": 8,
+      "authorized_by": "shivendra sir",
+      "driver_name": "porter",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-12 12:37:41.339000",
+      "type": "edited",
+      "site": "warehouse",
+      "category": "tools and accessories",
+      "item": "masking_tape_2_inch",
+      "old_stock": 100,
+      "new_stock": 100,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 12:43:39.962592",
+      "type": "edited",
+      "site": "warehouse",
+      "category": "tools and accessories",
+      "item": "masking_tape_2_inch",
+      "old_stock": 100,
+      "new_stock": 100,
+      "notes": ""
     }
   ],
   "system_info": {
