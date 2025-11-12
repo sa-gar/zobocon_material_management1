@@ -988,7 +988,7 @@
           "code": ""
         },
         "ap_filling_putty_(coarse)": {
-          "stock": 340,
+          "stock": 1100,
           "used": 0,
           "unit": "kg",
           "min_stock": 0,
@@ -1289,7 +1289,7 @@
           "code": ""
         },
         "laser_level_device": {
-          "stock": 1,
+          "stock": 2,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -1970,7 +1970,7 @@
           "code": "N/A"
         },
         "ap_filling_putty_(coarse)": {
-          "stock": 2080,
+          "stock": 1320,
           "used": 0,
           "unit": "kg",
           "min_stock": 200,
@@ -2398,6 +2398,14 @@
           "category": "tools and accessories",
           "rate": 0.0,
           "code": "N/A"
+        },
+        "male_sockets": {
+          "stock": 10,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "tools and accessories",
+          "rate": 0.0
         }
       },
       "machines": {
@@ -2447,7 +2455,7 @@
           "code": "N/A"
         },
         "laser_level_device": {
-          "stock": 1,
+          "stock": 0,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -3044,7 +3052,7 @@
           "rate": 0.0
         },
         "male_sockets": {
-          "stock": 120,
+          "stock": 110,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
@@ -5679,6 +5687,42 @@
       "old_stock": 13,
       "new_stock": 13,
       "notes": ""
+    },
+    {
+      "date": "2025-11-11 17:37:32.981323",
+      "type": "transfer",
+      "from_site": "dnr highline",
+      "to_site": "ADARSH PREMIA SITE",
+      "category": "machines",
+      "item": "laser_level_device",
+      "quantity": 1,
+      "authorized_by": "prasanna sir",
+      "driver_name": "porter",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-11 17:38:23.976269",
+      "type": "transfer",
+      "from_site": "dnr highline",
+      "to_site": "ADARSH PREMIA SITE",
+      "category": "materials",
+      "item": "ap_filling_putty_(coarse)",
+      "quantity": 760,
+      "authorized_by": "prasanna sir",
+      "driver_name": "porter",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-12 11:03:22.067637",
+      "type": "transfer",
+      "from_site": "warehouse",
+      "to_site": "dnr highline",
+      "category": "tools and accessories",
+      "item": "male_sockets",
+      "quantity": 10,
+      "authorized_by": "prasanna sir",
+      "driver_name": "N/A",
+      "vehicle_number": ""
     }
   ],
   "system_info": {
