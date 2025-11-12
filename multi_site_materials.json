@@ -216,7 +216,7 @@
           "code": "N/A"
         },
         "tarpaulin": {
-          "stock": 22,
+          "stock": 21,
           "used": 0,
           "unit": "pieces",
           "min_stock": 10,
@@ -420,17 +420,19 @@
           "stock": 5,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 2,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 9676.0,
+          "code": "N/A"
         },
         "insulation_tape_black": {
           "stock": 5,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 2,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 20.0,
+          "code": "N/A"
         },
         "safety_rope_105mm_udyogi_50mtr": {
           "stock": 5,
@@ -444,25 +446,28 @@
           "stock": 5,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 3,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 9.0,
+          "code": "N/A"
         },
         "sand_paper_grit_320_square_type": {
           "stock": 5,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 4,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 19.0,
+          "code": "N/A"
         },
         "led_holder_stand": {
           "stock": 3,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 2,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 449.0,
+          "code": "N/A"
         },
         "4_feet_stand": {
           "stock": 4,
@@ -470,7 +475,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 850.0,
+          "code": "N/A"
         },
         "trolley": {
           "stock": 3,
@@ -485,17 +491,19 @@
           "stock": 4,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 3,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 58.0,
+          "code": "N/A"
         },
         "6_inch_int_roller": {
           "stock": 4,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 3,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 77.0,
+          "code": "N/A"
         },
         "led_lights_50w": {
           "stock": 3,
@@ -641,7 +649,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 1000.0,
+          "code": "N/A"
         },
         "halogen_light_with_one_bulb_extra": {
           "stock": 1,
@@ -649,7 +658,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 750.0,
+          "code": "N/A"
         },
         "hose_pipe_1_bundle": {
           "stock": 1,
@@ -657,7 +667,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 6600.0,
+          "code": "N/A"
         },
         "old_news_paper_10_kg": {
           "stock": 1,
@@ -665,15 +676,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "tools_accessories",
-          "rate": 0.0
-        },
-        "jet_wash": {
-          "stock": 1,
-          "used": 0,
-          "unit": "pieces",
-          "min_stock": 0,
-          "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 100.0,
+          "code": "N/A"
         },
         "panel_board": {
           "stock": 1,
@@ -681,7 +685,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 3776.0,
+          "code": "N/A"
         },
         "electric_cable_100_mtr": {
           "stock": 0,
@@ -689,7 +694,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 3196.0,
+          "code": "N/A"
         },
         "drinking_water_drum": {
           "stock": 1,
@@ -697,7 +703,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 920.0,
+          "code": "N/A"
         },
         "first_aid_kit": {
           "stock": 1,
@@ -705,7 +712,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 750.0,
+          "code": "N/A"
         },
         "cutting_plier": {
           "stock": 1,
@@ -713,7 +721,8 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 50.0,
+          "code": "N/A"
         },
         "screw_driver": {
           "stock": 1,
@@ -729,40 +738,44 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 900.0,
+          "code": "N/A"
         },
         "plastic_masking_roll0_2_ft": {
-          "stock": 0.6,
+          "stock": 1,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 171.0,
+          "code": "N/A"
         },
         "foam_carpet__blue_1_bundle_200_mtr": {
-          "stock": 0.5,
+          "stock": 1,
           "used": 0,
           "unit": "pieces",
           "min_stock": 0,
           "category": "tools_accessories",
-          "rate": 0.0
+          "rate": 6000.0,
+          "code": "N/A"
         },
         "scaffolding_table": {
           "stock": 13,
           "used": 0,
-          "unit": "",
-          "min_stock": 3,
+          "unit": "pieces",
+          "min_stock": 5,
           "category": "tools and accessories",
-          "rate": 0.0,
+          "rate": 11000.0,
           "code": "N/A"
         },
         "fiber_gurmala_5.5": {
           "stock": 12,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 5,
           "category": "tools and accessories",
-          "rate": 0.0
+          "rate": 57.0,
+          "code": "N/A"
         },
         "male_sockets": {
           "stock": 13,
@@ -770,15 +783,17 @@
           "unit": "pieces",
           "min_stock": 0,
           "category": "tools and accessories",
-          "rate": 0.0
+          "rate": 78.0,
+          "code": "N/A"
         },
         "led_light_100_w": {
           "stock": 2,
           "used": 0,
           "unit": "pieces",
-          "min_stock": 0,
+          "min_stock": 1,
           "category": "tools and accessories",
-          "rate": 0.0
+          "rate": 1652.0,
+          "code": "N/A"
         }
       },
       "machines": {
@@ -957,6 +972,15 @@
           "min_stock": 0,
           "category": "machines",
           "rate": 0.0
+        },
+        "jet_wash": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 0,
+          "category": "machines",
+          "rate": 10499.0,
+          "code": "N/A"
         }
       }
     },
@@ -3671,6 +3695,15 @@
           "category": "tools and accessories",
           "rate": 0.0,
           "code": "N/A"
+        },
+        "tarpaulin": {
+          "stock": 1,
+          "used": 0,
+          "unit": "pieces",
+          "min_stock": 10,
+          "category": "tools_accessories",
+          "rate": 637.0,
+          "code": "N/A"
         }
       },
       "machines": {
@@ -6162,6 +6195,326 @@
       "item": "masking_tape_2_inch",
       "old_stock": 100,
       "new_stock": 100,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 15:29:22.588335",
+      "type": "transfer",
+      "from_site": "L&T Painting Site",
+      "to_site": "ADARSH TROPICA",
+      "category": "tools and accessories",
+      "item": "tarpaulin",
+      "quantity": 1,
+      "authorized_by": "prasanna sir",
+      "driver_name": "taken by dwarkanath",
+      "vehicle_number": ""
+    },
+    {
+      "date": "2025-11-12 19:03:46.940054",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "led_holder_stand",
+      "old_stock": 3,
+      "new_stock": 3,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 19:04:44.649682",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "3_core_25mm_wire_bundle",
+      "old_stock": 5,
+      "new_stock": 5,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 19:05:15.067412",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "insulation_tape_black",
+      "old_stock": 5,
+      "new_stock": 5,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 19:07:23.032694",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "ear_plugs",
+      "old_stock": 5,
+      "new_stock": 5,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 19:09:15.136278",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "ear_plugs",
+      "old_stock": 5,
+      "new_stock": 5,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 19:11:24.855539",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "sand_paper_grit_320_square_type",
+      "old_stock": 5,
+      "new_stock": 5,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 19:14:26.906470",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "sand_paper_grit_320_square_type",
+      "old_stock": 5,
+      "new_stock": 5,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 19:16:17.671566",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "4_feet_stand",
+      "old_stock": 4,
+      "new_stock": 4,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 19:17:10.764177",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "reflective_safety_jacket___green",
+      "old_stock": 4,
+      "new_stock": 4,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 19:18:06.113999",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "6_inch_int_roller",
+      "old_stock": 4,
+      "new_stock": 4,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 19:18:57.839872",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "led_light_100_w",
+      "old_stock": 2,
+      "new_stock": 2,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 19:19:20.280181",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "male_sockets",
+      "old_stock": 13,
+      "new_stock": 13,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 19:20:51.193714",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "fiber_gurmala_5.5",
+      "old_stock": 12,
+      "new_stock": 12,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 19:21:28.985527",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "scaffolding_table",
+      "old_stock": 13,
+      "new_stock": 13,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 19:21:41.835836",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "scaffolding_table",
+      "old_stock": 13,
+      "new_stock": 13,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 19:30:48.226970",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "foam_carpet__blue_1_bundle_200_mtr",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 19:31:13.416446",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "plastic_masking_roll0_2_ft",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 19:32:01.662171",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "undolation_device_36_watts",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 19:33:22.463571",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "cutting_plier",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 19:34:00.237691",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "first_aid_kit",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 19:35:24.605345",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "drinking_water_drum",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 19:35:47.070666",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "electric_cable_100_mtr",
+      "old_stock": 0,
+      "new_stock": 0,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 19:36:14.186025",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "panel_board",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 19:37:48.477174",
+      "type": "deleted",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "jet_wash",
+      "deleted_stock": 1
+    },
+    {
+      "date": "2025-11-12 19:38:50.880018",
+      "type": "added",
+      "site": "L&T Painting Site",
+      "category": "machines",
+      "item": "jet_wash",
+      "quantity": 1,
+      "supplier": "",
+      "received_by": "Site Manager"
+    },
+    {
+      "date": "2025-11-12 19:39:49.233033",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "old_news_paper_10_kg",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 19:44:49.790357",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "old_news_paper_10_kg",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 19:45:33.398879",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "hose_pipe_1_bundle",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 19:46:11.364724",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "halogen_light_with_one_bulb_extra",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 19:47:23.803380",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "halogen_light_with_one_bulb_extra",
+      "old_stock": 1,
+      "new_stock": 1,
+      "notes": ""
+    },
+    {
+      "date": "2025-11-12 19:47:47.212704",
+      "type": "edited",
+      "site": "L&T Painting Site",
+      "category": "tools and accessories",
+      "item": "tool_box",
+      "old_stock": 1,
+      "new_stock": 1,
       "notes": ""
     }
   ],
